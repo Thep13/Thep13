@@ -1,0 +1,1420 @@
+#EXTM3U
+#EXTINF:0,CH 5
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+#EXTINF:0,TSport7
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF:0,TPTV
+#EXTGRP:FREETV
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8
+#EXTINF:0,Nation HD
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+#EXTINF:0,Workpoint23
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
+#EXTINF:0,True4U
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+#EXTINF:0,GMM25
+#EXTGRP:FREETV
+https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
+#EXTINF:0,CH 8
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+#EXTINF:0,CH3  3BB
+#EXTGRP:FREETV
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+#EXTINF:0,MCOT
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+#EXTINF:0,CH 3
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+#EXTINF:0,CH3 FHD
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+#EXTINF:0,ONE HD
+#EXTGRP:FREETV
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
+#EXTINF:0,AMARIN 34
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+#EXTINF:0,Thairath-B
+#EXTGRP:FREETV
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+#EXTINF:0,Amarin
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+#EXTINF:0,MONO29-B
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
+#EXTINF:0,CH 7
+#EXTGRP:FREETV
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+#EXTINF:0,Thairath
+#EXTGRP:FREETV
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+#EXTINF:0,PPTV-B
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF:0,NEWS 1
+#EXTGRP:FREETV
+http://news1.live14.com/stream/news1_hi.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="TRUE SPORTS" ,EPL-1 HD
+https://media.wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,EPL-2 HD
+https://media.wacthstream.com/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,EPL-3 HD
+https://media.wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,EPL-4 HD
+https://media.wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,EPL-5 HD
+https://media.wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,BEIN TRUE 1
+https://media.wacthstream.com/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,BEIN TRUE 2
+https://media.wacthstream.com/stream_live/608_BEIN2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,True Sport  HD
+https://media.wacthstream.com/stream_live/666_Ts_HD1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,TSP3 HD
+https://media.wacthstream.com/stream_live/668_Ts_HD3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,TSP HD
+https://media.wacthstream.com/stream_live/666_Ts_HD1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,TSP2 HD
+https://media.wacthstream.com/stream_live/667_Ts_HD2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,TSP 7HD
+https://media.wacthstream.com/stream_live/686_TSP7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTINF:-1 group-title="TRUE SPORTS" ,TRUE TENNIS
+https://media.wacthstream.com/stream_live/670_Tennis/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+
+
+
+
+
+#EXTINF:0,True Premier Football 1
+#EXTGRP:TRUE SPORTS
+https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:0,True Premier Football 2
+#EXTGRP:TRUE SPORTS
+https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:0,True Premier Football 3
+#EXTGRP:TRUE SPORTS
+https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:0,True Premier Football 4
+#EXTGRP:TRUE SPORTS
+https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:0,True Premier Football 5
+#EXTGRP:TRUE SPORTS
+https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:0,Spotv1​
+#EXTGRP:TRUE SPORTS
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?
+
+
+#EXTINF:0,Bein1​
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:0,Bein3
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTINF:0,Spotv1
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0,Spotv2
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0,Premier1​
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0,Premier2
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0,Premier3
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0,Premier4
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0,Premier5
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0,TSPORT1​
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0,TSPORT2
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0,TSPORT3
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0,TSPORT4
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0,TSPORT5
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+#EXTINF:0,TSPORT6
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+#EXTINF:0,TSPORT7
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
+#EXTINF:0,Tennis 
+#EXTGRP:TRUE SPORTS
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
+
+
+
+
+
+
+
+#EXTINF:0,Asianfood
+#EXTGRP:TRUE TV
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8
+#EXTINF:0,True Thaifilm
+#EXTGRP:TRUE TV 
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:0,Film Asia
+#EXTGRP:TRUE TV
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
+#EXTINF:0,Movies Hit
+#EXTGRP:TRUE TV
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
+#EXTINF:0,True Serie​
+#EXTGRP:TRUE TV
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
+#EXTINF:0,Thaifilm
+#EXTGRP:TRUE TV
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8
+#EXTINF:0,Xzyte​
+#EXTGRP:TRUE TV
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:0,WarnerTv
+#EXTGRP:TRUE TV
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8
+
+
+
+
+#EXTINF:0,Asianfood
+#EXTGRP:TRUE TV
+#EXTINF:0,New
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-new.stream/playlist.m3u8
+#EXTINF:0,TSPORT1
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:0,TSPORT2
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:0,TSPORT3
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:0,TSPORT4
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8
+#EXTINF:0,BSB-EPL1
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
+#EXTINF:0,BSB-EPL2
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8
+#EXTINF:0,BSB-EPL3
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/bsb-epl3.stream/playlist.m3u8
+#EXTINF:0,BSB-EPL4
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/bsb-epl4.stream/playlist.m3u8
+#EXTINF:0,BSB-EPL5
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
+#EXTINF:0,HBO
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Premiere
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skypremiere.stream/playlist.m3u8
+#EXTINF:0,True 4U (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-24u.stream/playlist.m3u8
+#EXTINF:0,GMM Channel
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-gmmchannel.stream/playlist.m3u8
+#EXTINF:0,Celestial Classic Movies (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8
+#EXTINF:0,TG4 (IE)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/ie-tg4.stream/playlist.m3u8
+#EXTINF:0,TV3 (IE)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/ie-tv3.stream/playlist.m3u8
+#EXTINF:0,Sky Atlantic (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skyatlantic.stream/playlist.m3u8
+#EXTINF:0,5 Star (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-5star.stream/playlist.m3u8
+#EXTINF:0,TLC (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8
+#EXTINF:0,4 Seven (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-4sevenhd.stream/playlist.m3u8
+#EXTINF:0,3e (IE)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/ie-3e.stream/playlist.m3u8
+#EXTINF:0,RTE Two (IE)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/ie-rte2.stream/playlist.m3u8
+#EXTINF:0,RTE One (IE)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/ie-rte1.stream/playlist.m3u8
+#EXTINF:0,TLC (EN)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-tlceng.stream/playlist.m3u8
+#EXTINF:0,Challenge (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-challenge.stream/playlist.m3u8
+#EXTINF:0,ITV Be (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-itvbe.stream/playlist.m3u8
+#EXTINF:0,GMM One
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-gmmone.stream/playlist.m3u8
+#EXTINF:0,Cartoon Network (EN)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-cartoonnetworkeng.stream/playlist.m3u8
+#EXTINF:0,ITV 3 HD (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-itv3.stream/playlist.m3u8
+#EXTINF:0,ITV 4 HD (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-itv4.stream/playlist.m3u8
+#EXTINF:0,More 4 (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-more4.stream/playlist.m3u8
+#EXTINF:0,ITV 2 HD (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-itv2hd.stream/playlist.m3u8
+#EXTINF:0,CBS Reality (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-cbsreality.stream/playlist.m3u8
+#EXTINF:0,Premier Sports (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-premiersports.stream/playlist.m3u8
+#EXTINF:0,TNN24 (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-tnn24.stream/playlist.m3u8
+#EXTINF:0,Sky Bundesliga (DE)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/playlist.m3u8
+#EXTINF:0,Sky Sports Premier League (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:0,Sky Sports News (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skysports-news.stream/playlist.m3u8
+#EXTINF:0,Sky Sports Mix (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/playlist.m3u8
+#EXTINF:0,Sky Sports Golf (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:0,Sky Sports Football (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:0,Racing UK (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-racing.stream/playlist.m3u8
+#EXTINF:0,Liverpool FC TV
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF:0,At The Races (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-attheraces.stream/playlist.m3u8
+#EXTINF:0,NHK World Premium (JP)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-nhkpremium.stream/playlist.m3u8
+#EXTINF:0,Eurosport Asia SD
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-eurosport.stream/playlist.m3u8
+#EXTINF:0,Euro Sport (FR)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/fr-eurosport.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 1 (Arabic)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-bein1.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 3 (French)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/fr-bein3hd.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 2 (French)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 2 (Arabic)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-bein2.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 10 (Arabic)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-bein10.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 6 (Arabic)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-bein6.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 5 (Arabic)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-bein5.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 7 (Arabic)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-bein7.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 9 (Arabic)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-bein9.stream/playlist.m3u8
+#EXTINF:0,BT Sports 1 HD (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:0,PPTV (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-pptv.stream/playlist.m3u8
+#EXTINF:0,BT Sports Extra 2 (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-btsportextra2.stream/playlist.m3u8
+#EXTINF:0,BT Sports Extra (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-btsportextra1.stream/playlist.m3u8
+#EXTINF:0,Mono29 (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-mono.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 4 (Arabic)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-bein4.stream/playlist.m3u8
+#EXTINF:0,Discovery Asia (EN)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-discoveryeng.stream/playlist.m3u8
+#EXTINF:0,BBC Four (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-bbc4hd.stream/playlist.m3u8
+#EXTINF:0,BBC Earth (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
+#EXTINF:0,Golf Channel Thailand (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8
+#EXTINF:0,DMAX (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-dmax.stream/playlist.m3u8
+#EXTINF:0,Discovery Turbo (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/playlist.m3u8
+#EXTINF:0,CBS Drama (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-cbsdrama.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 8 (Arabic)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-bein8.stream/playlist.m3u8
+#EXTINF:0,History (EN)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-historyeng.stream/playlist.m3u8
+#EXTINF:0,FOX Sports 1 (US)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/us-foxsports1.stream/playlist.m3u8
+#EXTINF:0,CNN International
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-cnn.stream/playlist.m3u8
+#EXTINF:0,Euro Sport 2 (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8
+#EXTINF:0,TNN 2 24 (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-tnn2.stream/playlist.m3u8
+#EXTINF:0,Arena Sport 4 Croatia
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/rs-arena4.stream/playlist.m3u8
+#EXTINF:0,FOX News (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-foxnews.stream/playlist.m3u8
+#EXTINF:0,Bloomberg Asia
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-bloomberg.stream/playlist.m3u8
+#EXTINF:0,HBO (English)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
+#EXTINF:0,NBC Golf
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-golfeng.stream/playlist.m3u8
+#EXTINF:0,Sky Sport Main Event (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:0,Bein Sport 1 (French)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8
+#EXTINF:0,Film 4 (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-film4.stream/playlist.m3u8
+#EXTINF:0,Discovery Channel (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-discovery.stream/playlist.m3u8
+#EXTINF:0,ESPN (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-espn.stream/playlist.m3u8
+#EXTINF:0,Sky Sport F1 (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:0,BBC World News (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-bbcworldnews.stream/playlist.m3u8
+#EXTINF:0,True Tennis HD (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8
+#EXTINF:0,BBC Two (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-bbc2hd.stream/playlist.m3u8
+#EXTINF:0,NBA TV (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-nba.stream/playlist.m3u8
+#EXTINF:0,BBC One (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-bbc1hd.stream/playlist.m3u8
+#EXTINF:0,Arena Sport 2 Croatia
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/rs-arena2.stream/playlist.m3u8
+#EXTINF:0,Drama (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-drama.stream/playlist.m3u8
+#EXTINF:0,Sky Sport Box Office (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skyboxoffice.stream/playlist.m3u8
+#EXTINF:0,BBC Three (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-bbc3hd.stream/playlist.m3u8
+#EXTINF:0,Thai PBS (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/hd-tpbs.stream/playlist.m3u8
+#EXTINF:0,NBT (TH)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/sd-nbt.stream/playlist.m3u8
+#EXTINF:0,Alibi (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-alibi.stream/playlist.m3u8
+#EXTINF:0,Al Jazeera (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-aljazeera.stream/playlist.m3u8
+#EXTINF:0,Sky Sports Cricket (UK)
+#EXTGRP:WEBTV
+https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/playlist.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1720429672.png" ,3BB Sports 1
+https://dookeela.live/live-tv/3bbsports1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1674194748.png" ,Arena Sport 1 Premium
+https://dookeela.live/live-tv/arenasport1p/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664041294.png" ,Arena Sport 1 Serbia
+https://dookeela.live/live-tv/arenasport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1674194763.png" ,Arena Sport 2 Premium
+https://dookeela.live/live-tv/arenasport2p/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664041506.png" ,Arena Sport 2 Serbia
+https://dookeela.live/live-tv/arenasport2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1674194777.png" ,Arena Sport 3 Premium
+https://dookeela.live/live-tv/arenasport3p/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664219377.png" ,Arena Sport 3 Serbia
+https://dookeela.live/live-tv/arenasport3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664132050.png" ,Arena Sport 4 Serbia
+https://dookeela.live/live-tv/arenasport4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664502377.png" ,Arena Sport 5 Serbia
+https://dookeela.live/live-tv/arenasport5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1675467626.png" ,Arena Sport 6 Serbia
+https://dookeela.live/live-tv/arenasport6/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1697812603.png" ,Astro Arena
+https://dookeela.live/live-tv/astroarena/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719768111.png" ,Astro Arena 2
+https://dookeela.live/live-tv/astroarena2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1700012376.png" ,Astro Arena Bola
+https://dookeela.live/live-tv/astroarenabola/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1698351468.png" ,Astro Arena Bola 2
+https://dookeela.live/live-tv/astroarenabola2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1720166377.png" ,ASTRO CRICKET HD | Malaysia
+https://dookeela.live/live-tv/astrocrickethd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664580131.png" ,Astro Supersport
+https://dookeela.live/live-tv/astro1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1663981185.png" ,Astro Supersport 2
+https://dookeela.live/live-tv/astro2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664802651.png" ,Astro Supersport 3
+https://dookeela.live/live-tv/astro3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664219714.png" ,Astro Supersport 4
+https://dookeela.live/live-tv/astro4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664323955.png" ,beIN Sports 1 France
+https://dookeela.live/live-tv/beinsport1fr/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664502528.png" ,beIN Sports 1 Turkey
+https://dookeela.live/live-tv/beinsports1tu/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1685036091.png" ,beIN Sports 2 France
+https://dookeela.live/live-tv/beinsport2fr/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664502539.png" ,beIN Sports 2 Turkey
+https://dookeela.live/live-tv/beinsports2tu/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664581228.png" ,beIN Sports 3 Turkey
+https://dookeela.live/live-tv/bein3tu/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664581241.png" ,beIN Sports 4 Turkey
+https://dookeela.live/live-tv/bein4tu/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1667802420.png" ,beIN Sports 5 Max France
+https://dookeela.live/live-tv/beinmax5fr/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1667802447.png" ,beIN Sports 6 Max France
+https://dookeela.live/live-tv/beinmax6fr/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1674393244.png" ,beIN SPORTS Max 1 Turkey
+https://dookeela.live/live-tv/beinmax1tr/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1679591572.png" ,beIN SPORTS Max 2 Turkey
+https://dookeela.live/live-tv/beinmax2tr/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664577275.png" ,BT Sport 1 UK
+https://dookeela.live/live-tv/btsport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664577284.png" ,BT Sport 2 UK
+https://dookeela.live/live-tv/btsport2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664577293.png" ,BT Sport 3 UK
+https://dookeela.live/live-tv/btsport3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1667415893.png" ,BT Sport 4 UK
+https://dookeela.live/live-tv/btsport4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1663979533.png" ,Canal 11 Protugal
+https://dookeela.live/live-tv/canal11pt/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1697707418.png" ,CBS Sports Network [USA]
+https://dookeela.live/live-tv/cbssports/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715571844.png" ,DAZN 1 | Spain
+https://dookeela.live/live-tv/dazn1es/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1679423986.png" ,DAZN 1 Germany
+https://dookeela.live/live-tv/dazn1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715571857.png" ,DAZN 2 | Spain
+https://dookeela.live/live-tv/dazn2es/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1694286704.png" ,DAZN 2 Germany
+https://dookeela.live/live-tv/dazn2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1696279327.png" ,DAZN F1 (Spain)
+https://dookeela.live/live-tv/daznf1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1711566401.png" ,DAZN Laliga
+https://dookeela.live/live-tv/dazn-laliga/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1704685964.png" ,DAZN Unbeaten
+https://dookeela.live/live-tv/dazn-unbeaten/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664315169.png" ,Diema Sport
+https://dookeela.live/live-tv/diemasport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1671566522.png" ,Diema Sport 2
+https://dookeela.live/live-tv/diemasport2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1694717956.png" ,Diema Sport 3
+https://dookeela.live/live-tv/diemasport3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664126175.png" ,Digi Sport 1 Romania
+https://dookeela.live/live-tv/digisport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1667654703.png" ,Digi Sport 2 Romania
+https://dookeela.live/live-tv/digisport2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1663980730.png" ,Digi Sport 3 Romania
+https://dookeela.live/live-tv/digisport3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1667654714.png" ,Digi Sport 4 Romania
+https://dookeela.live/live-tv/digisport4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1713507698.png" ,EDGE Sport
+https://dookeela.live/live-tv/edge-sport/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1722089133.png" ,Eleven Pro League 1
+https://dookeela.live/live-tv/daznproleague1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1722618844.png" ,Eleven Pro League 2
+https://dookeela.live/live-tv/daznproleague2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664126262.png" ,Eleven Sports 1 Portugal
+https://dookeela.live/live-tv/elevensports1pt/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664848123.png" ,Eleven Sports 2 Portugal
+https://dookeela.live/live-tv/elevensports2pt/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664848193.png" ,Eleven Sports 3 Portugal
+https://dookeela.live/live-tv/elevensports3pt/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1679421134.png" ,Eleven Sports 4 Portugal
+https://dookeela.live/live-tv/elevensports4pt/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1679421151.png" ,Eleven Sports 5 Portugal
+https://dookeela.live/live-tv/elevensports5pt/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1679421165.png" ,Eleven Sports 6 Portugal
+https://dookeela.live/live-tv/elevensports6pt/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1698197339.png" ,ESPN [USA]
+https://dookeela.live/live-tv/espn1usa/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664501652.png" ,ESPN 1 Netherlands
+https://dookeela.live/live-tv/foxsports1nl/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664501662.png" ,ESPN 2 Netherlands
+https://dookeela.live/live-tv/foxsports2nl/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664501676.png" ,ESPN 3 Netherlands
+https://dookeela.live/live-tv/foxsports3nl/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664501687.png" ,ESPN 4 Netherlands
+https://dookeela.live/live-tv/foxsports4nl/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1698197356.png" ,ESPN2 [USA]
+https://dookeela.live/live-tv/espn2usa/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1711310704.png" ,ESPN3 [USA]
+https://dookeela.live/live-tv/espn3usa/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1711566124.png" ,Eurosport 1 | Spain
+https://dookeela.live/live-tv/eurosport1es/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1711566136.png" ,Eurosport 2 | Spain
+https://dookeela.live/live-tv/eurosport2es/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1708490904.png" ,Fight Sports
+https://dookeela.live/live-tv/fight-sports/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664219664.png" ,FOX Sports 1 USA
+https://dookeela.live/live-tv/foxsports1usa/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1673668104.png" ,FOX Sports 2 USA
+https://dookeela.live/live-tv/foxsports2usa/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664801941.png" ,Golf Channel Thailand HD
+https://dookeela.live/live-tv/golf/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723923355.png" ,L1Max
+https://dookeela.live/live-tv/l1max/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1718320056.png" ,LaLiga Hypermotion TV
+https://dookeela.live/live-tv/laliga-hypermotion-tv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1718320112.png" ,LaLiga Hypermotion TV 2
+https://dookeela.live/live-tv/laliga-hypermotion-tv-2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1718320120.png" ,LaLiga Hypermotion TV 3
+https://dookeela.live/live-tv/laliga-hypermotion-tv-3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1669940282.png" ,LFCTV
+https://dookeela.live/live-tv/lfctv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1667413290.png" ,Match Premier Russia
+https://dookeela.live/live-tv/matchpremier/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1671966260.png" ,MCOT HD
+https://dookeela.live/live-tv/mcothd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1695548172.png" ,MLB
+https://dookeela.live/live-tv/mlb/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1665106261.png" ,MUTV
+https://dookeela.live/live-tv/mutv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664532126.png" ,NBA TV
+https://dookeela.live/live-tv/nba/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1694909293.png" ,NFL Network
+https://dookeela.live/live-tv/nfl/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1698361433.png" ,Nova SPORT 1 [Czech Republic]
+https://dookeela.live/live-tv/novasport1cz/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1698527984.png" ,Nova SPORT 2 [Czech Republic]
+https://dookeela.live/live-tv/novasport2cz/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1699205062.png" ,O2 TV Fotbal
+https://dookeela.live/live-tv/o2-fotbal/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1699795970.png" ,O2 TV Sport
+https://dookeela.live/live-tv/o2-sport/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1683394005.png" ,one31
+https://dookeela.live/live-tv/one31/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1721182604.png" ,Polsat Sport 1 | Poland
+https://dookeela.live/live-tv/polsatsport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723569749.png" ,Polsat Sport 2 | Poland
+https://dookeela.live/live-tv/polsatsport2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1722964013.png" ,Polsat Sport 3 | Poland
+https://dookeela.live/live-tv/polsatsport3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1721584784.png" ,Polsat Sport Premium 1 | Poland
+https://dookeela.live/live-tv/polsatsportpremium1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664499074.png" ,PPTV
+https://dookeela.live/live-tv/pptv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1695331830.png" ,PPV1
+https://dookeela.live/live-tv/ppv1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1697394316.png" ,PPV2
+https://dookeela.live/live-tv/ppv2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1697801424.png" ,PPV3
+https://dookeela.live/live-tv/ppv3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715565710.png" ,PREMIER SPORTS 1 | UK
+https://dookeela.live/live-tv/premiersports1uk/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715565724.png" ,PREMIER SPORTS 2 | UK
+https://dookeela.live/live-tv/premiersports2uk/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1663980176.png" ,Premiere
+https://dookeela.live/live-tv/pfc/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1667412226.png" ,Premiere 2
+https://dookeela.live/live-tv/pfc2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723400121.png" ,Premiere 5
+https://dookeela.live/live-tv/pfc5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723400340.png" ,Premiere 6
+https://dookeela.live/live-tv/pfc6/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1724434820.png" ,Premiere 7
+https://dookeela.live/live-tv/pfc7/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1694689157.png" ,Prima Sport 1
+https://dookeela.live/live-tv/primasport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1695249914.png" ,Prima Sport 2
+https://dookeela.live/live-tv/primasport2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1695604346.png" ,Prima Sport 3
+https://dookeela.live/live-tv/primasport3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1695398839.png" ,Prima Sport 4
+https://dookeela.live/live-tv/primasport4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1696610104.png" ,Prima Sport 5
+https://dookeela.live/live-tv/primasport5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1697334593.png" ,Prima TV
+https://dookeela.live/live-tv/primatv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1711566263.png" ,Red Bull TV
+https://dookeela.live/live-tv/redbull-tv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1709380646.png" ,SIAMSPORT 1
+https://dookeela.live/live-tv/siamsport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1709380657.png" ,SIAMSPORT 2
+https://dookeela.live/live-tv/siamsport2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1709380667.png" ,SIAMSPORT 3
+https://dookeela.live/live-tv/siamsport3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1709380678.png" ,SIAMSPORT 4
+https://dookeela.live/live-tv/siamsport4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715569336.png" ,Sky Sport MotoGP
+https://dookeela.live/live-tv/skysportmotogp/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715564538.png" ,Sky Sport Uno
+https://dookeela.live/live-tv/skysportuno/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715648808.png" ,Sky Sports Action
+https://dookeela.live/live-tv/skysportsaction/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664540905.png" ,Sky Sports Arena UK
+https://dookeela.live/live-tv/skysportarena/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1712888821.png" ,Sky Sports F1 | UK
+https://dookeela.live/live-tv/skysportsf1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664576894.png" ,Sky Sports Football UK
+https://dookeela.live/live-tv/skysportfootball/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1712888702.png" ,Sky Sports Golf | UK
+https://dookeela.live/live-tv/skysportsgolf/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1665106057.png" ,Sky Sports Main Event UK
+https://dookeela.live/live-tv/skysportmainevent/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1712889285.png" ,Sky Sports Mix | UK
+https://dookeela.live/live-tv/skysportsmix/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1696317833.png" ,Sky Sports Premier League UK
+https://dookeela.live/live-tv/skysportepl/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1712889189.png" ,Sky Sports Racing | UK
+https://dookeela.live/live-tv/skysportsracing/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1712889076.png" ,Sky Sports Tennis | UK
+https://dookeela.live/live-tv/skysportstennis/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1663979709.png" ,Sport TV 1
+https://dookeela.live/live-tv/sporttv1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1663979801.png" ,Sport TV 2
+https://dookeela.live/live-tv/sporttv2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1663980327.png" ,Sport TV 3
+https://dookeela.live/live-tv/sporttv3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664041351.png" ,Sport TV 4
+https://dookeela.live/live-tv/sporttv4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664125991.png" ,Sport TV 5
+https://dookeela.live/live-tv/sporttv5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664202734.png" ,sportdigital
+https://dookeela.live/live-tv/sportdigital/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664202841.png" ,Sportklub 3 Slovenia
+https://dookeela.live/live-tv/sportklub3slovenia/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1663980968.png" ,sportv
+https://dookeela.live/live-tv/sportv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1697844825.png" ,SporTV 2
+https://dookeela.live/live-tv/sportv2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664529562.png" ,SPOTV
+https://dookeela.live/live-tv/spotv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664529575.png" ,SPOTV 2
+https://dookeela.live/live-tv/spotv2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1691933533.png" ,SSC 1 HD
+https://dookeela.live/live-tv/ssc1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1691948780.png" ,SSC EXTRA 1
+https://dookeela.live/live-tv/sscextra1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1692334268.png" ,SSC EXTRA 2
+https://dookeela.live/live-tv/sscextra2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1716487143.png" ,SSC EXTRA 3
+https://dookeela.live/live-tv/sscextra3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1693674503.png" ,SSC NEWS
+https://dookeela.live/live-tv/sscnews/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1691934908.png" ,SSC2 HD
+https://dookeela.live/live-tv/ssc2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1691934918.png" ,SSC3 HD
+https://dookeela.live/live-tv/ssc3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1691934931.png" ,SSC4 HD
+https://dookeela.live/live-tv/ssc4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1691934941.png" ,SSC5 HD
+https://dookeela.live/live-tv/ssc5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1673134276.png" ,T Sports 7
+https://dookeela.live/live-tv/tsports7/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1691521854.png" ,TNT Sports 5 UK
+https://dookeela.live/live-tv/btsport5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1694456079.png" ,TNT USA
+https://dookeela.live/live-tv/tntusa/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1691371195.png" ,True Ball Thai 1
+https://dookeela.live/live-tv/trueballthai1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723666843.png" ,True Ball Thai 10
+https://dookeela.live/live-tv/trueballthai10/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1691444816.png" ,True Ball Thai 2
+https://dookeela.live/live-tv/trueballthai2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1691444826.png" ,True Ball Thai 3
+https://dookeela.live/live-tv/trueballthai3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1707502708.png" ,True Ball Thai 4
+https://dookeela.live/live-tv/trueballthai4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723643778.png" ,True Ball Thai 5
+https://dookeela.live/live-tv/trueballthai5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723647539.png" ,True Ball Thai 6
+https://dookeela.live/live-tv/trueballthai6/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723648540.png" ,True Ball Thai 7
+https://dookeela.live/live-tv/trueballthai7/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723651252.png" ,True Ball Thai 8
+https://dookeela.live/live-tv/trueballthai8/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723660123.png" ,True Ball Thai 9
+https://dookeela.live/live-tv/trueballthai9/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664499665.png" ,True Premier Football 1
+https://dookeela.live/live-tv/epl1_sd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664499673.png" ,True Premier Football 2
+https://dookeela.live/live-tv/epl2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664499681.png" ,True Premier Football 3
+https://dookeela.live/live-tv/epl3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664499692.png" ,True Premier Football 4
+https://dookeela.live/live-tv/epl4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664499700.png" ,True Premier Football 5
+https://dookeela.live/live-tv/epl5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1717257614.png" ,True Tennis
+https://dookeela.live/live-tv/truetennis/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664802455.png" ,truesports 1
+https://dookeela.live/live-tv/tsp1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664499966.png" ,truesports 2
+https://dookeela.live/live-tv/tsp2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664802480.png" ,truesports 3
+https://dookeela.live/live-tv/tsp3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1717396131.png" ,truesports 4
+https://dookeela.live/live-tv/tsp4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664847910.png" ,truesports 5
+https://dookeela.live/live-tv/tsp5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664847921.png" ,truesports 7
+https://dookeela.live/live-tv/tsp7/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1685553673.png" ,TSN1
+https://dookeela.live/live-tv/tsn1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1685553680.png" ,TSN2
+https://dookeela.live/live-tv/tsn2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1685553687.png" ,TSN3
+https://dookeela.live/live-tv/tsn3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1685553694.png" ,TSN4
+https://dookeela.live/live-tv/tsn4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1685553701.png" ,TSN5
+https://dookeela.live/live-tv/tsn5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1689987703.png" ,TUDN USA
+https://dookeela.live/live-tv/tudnusa/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1694686186.png" ,TV 2 Sport 1
+https://dookeela.live/live-tv/tv2sport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1694686602.png" ,TV 2 Sport 2
+https://dookeela.live/live-tv/tv2sport2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1694686674.png" ,TV 2 Sport Premium
+https://dookeela.live/live-tv/tv2sportpremium/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1667418649.png" ,TV 2 Sport Premium 2
+https://dookeela.live/live-tv/tv2sportpremium2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719438426.png" ,TV OKEY | Malaysia
+https://dookeela.live/live-tv/tvokey/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1667501442.png" ,TV3 Sport 1
+https://dookeela.live/live-tv/tv3sport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1695936059.png" ,TV4 Fotboll (Sweden)
+https://dookeela.live/live-tv/tv4fotboll/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1712883565.png" ,TV4 Sport Live 1 | Sweden
+https://dookeela.live/live-tv/tv4sport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1712883578.png" ,TV4 Sport Live 2 | Sweden
+https://dookeela.live/live-tv/tv4sport2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1712883588.png" ,TV4 Sport Live 3 | Sweden
+https://dookeela.live/live-tv/tv4sport3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1712883598.png" ,TV4 Sport Live 4 | Sweden
+https://dookeela.live/live-tv/tv4sport4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1697073131.png" ,TV4 Sportkanalen (Sweden)
+https://dookeela.live/live-tv/tv4sportkanalen/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1699121407.png" ,TyC Sports Internacional
+https://dookeela.live/live-tv/tycsports/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1698455515.png" ,UNIVERSO [USA]
+https://dookeela.live/live-tv/universo/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715568565.png" ,V Sport 1
+https://dookeela.live/live-tv/vsport1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715568821.png" ,V Sport 1 HD
+https://dookeela.live/live-tv/vsport1hd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715569012.png" ,V Sport 2
+https://dookeela.live/live-tv/vsport2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715569150.png" ,V Sport 3
+https://dookeela.live/live-tv/vsport3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715568312.png" ,V Sport Football
+https://dookeela.live/live-tv/v-sport-football/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715568017.png" ,V Sport Premium
+https://dookeela.live/live-tv/v-sport-premium/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715567747.png" ,V Sport UltraHD
+https://dookeela.live/live-tv/v-sport-ultrahd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1696317392.png" ,WWE Network
+https://dookeela.live/live-tv/wwe/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1680288498.png" ,Ziggo Docu
+https://dookeela.live/live-tv/ziggosportdocu/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1672583851.png" ,Ziggo Select
+https://dookeela.live/live-tv/ziggosportselect/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1665475536.png" ,Ziggo Sport Voetbal
+https://dookeela.live/live-tv/ziggosportvoetbal/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1685812254.png" ,ช่อง 3
+https://dookeela.live/live-tv/ch3hd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664574997.png" ,ช่อง 5
+https://dookeela.live/live-tv/ch5hd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1688059473.png" ,ช่อง 7
+https://dookeela.live/live-tv/ch7hd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1664500365.png" ,บีอินสปอตส์ 1
+https://dookeela.live/live-tv/bein1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1724346113.png" ,บีอินสปอตส์ 10
+https://dookeela.live/live-tv/bein10/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1690843424.png" ,บีอินสปอตส์ 2
+https://dookeela.live/live-tv/bein2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1663980670.png" ,บีอินสปอตส์ 3
+https://dookeela.live/live-tv/bein3/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1692816640.png" ,บีอินสปอตส์ 4
+https://dookeela.live/live-tv/bein4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1693290376.png" ,บีอินสปอตส์ 5
+https://dookeela.live/live-tv/bein5/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1694719513.png" ,บีอินสปอตส์ 6
+https://dookeela.live/live-tv/bein6/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1694719622.png" ,บีอินสปอตส์ 7
+https://dookeela.live/live-tv/bein7/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1724241278.png" ,บีอินสปอตส์ 8
+https://dookeela.live/live-tv/bein8/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1724241287.png" ,บีอินสปอตส์ 9
+https://dookeela.live/live-tv/bein9/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1686800227.png" ,ไทยรัฐทีวี
+https://dookeela.live/live-tv/thairathtv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1703829940.png" ,3BB Asian
+https://dookeela.live/live-tv/3bbasian/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1704117706.png" ,AmarinTV HD
+https://dookeela.live/live-tv/amarintv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1716339097.png" ,AMC | USA
+https://dookeela.live/live-tv/amc/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1717696078.png" ,Asian Food Network
+https://dookeela.live/live-tv/afn/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719897010.png" ,AXN HD
+https://dookeela.live/live-tv/axn/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1708490949.png" ,BollywooD Classic
+https://dookeela.live/live-tv/bollywood-classic/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1708490933.png" ,BollywooD HD
+https://dookeela.live/live-tv/bollywood-hd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719803240.png" ,CCM
+https://dookeela.live/live-tv/ccm/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1704117313.png" ,CH8
+https://dookeela.live/live-tv/ch8/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1703786799.png" ,CINEMAX
+https://dookeela.live/live-tv/cinemax/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1717696062.png" ,Food Network
+https://dookeela.live/live-tv/foodnetwork/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1703686191.png" ,HBO
+https://dookeela.live/live-tv/hbo/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1703786776.png" ,HBO Family
+https://dookeela.live/live-tv/hbo-family/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1703786599.png" ,HBO Hits
+https://dookeela.live/live-tv/hbo-hits/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1703786305.png" ,HBO Signature
+https://dookeela.live/live-tv/hbo-signature/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1706112791.png" ,HITS
+https://dookeela.live/live-tv/hits/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1714100677.png" ,HITS MOVIES
+https://dookeela.live/live-tv/hits-movies/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1706405008.png" ,iQIYI
+https://dookeela.live/live-tv/iqiyi/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719897483.png" ,KBS World HD
+https://dookeela.live/live-tv/kbsworld/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1720379919.png" ,KMTV
+https://dookeela.live/live-tv/kmtv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1720781589.png" ,Lifetime
+https://dookeela.live/live-tv/lifetime/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1703787713.png" ,MONO29 (โมโน 29)
+https://dookeela.live/live-tv/mono29/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1703787733.png" ,MONO29 Plus
+https://dookeela.live/live-tv/mono29plus/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1721687257.png" ,MTV
+https://dookeela.live/live-tv/mtv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1706112779.png" ,Paramount Network
+https://dookeela.live/live-tv/paramount-network/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1718690264.png" ,ROCK Action
+https://dookeela.live/live-tv/rock-action/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1718690283.png" ,ROCK ENTERTAINMENT
+https://dookeela.live/live-tv/rock-entertainment/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705582013.png" ,STARZ ENCORE | USA
+https://dookeela.live/live-tv/starz-encore/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1717696038.png" ,TLC
+https://dookeela.live/live-tv/tlc/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719205850.png" ,True Asian More
+https://dookeela.live/live-tv/trueasianmore/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1720380229.png" ,True Film 1
+https://dookeela.live/live-tv/truefilm1/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1720723122.png" ,True Film 2
+https://dookeela.live/live-tv/truefilm2/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719205705.png" ,True Film Asia
+https://dookeela.live/live-tv/truefilmasia/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719803882.png" ,True Movie Hits
+https://dookeela.live/live-tv/truemoviehits/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719205991.png" ,True Series
+https://dookeela.live/live-tv/trueseries/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1706539896.png" ,True Thai Film
+https://dookeela.live/live-tv/truethaifilm/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719206155.png" ,True X-Zyte
+https://dookeela.live/live-tv/truex-zyte/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719898154.png" ,TVB CLASSIC HD
+https://dookeela.live/live-tv/tvbclassichd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1703833429.png" ,tvN | Indonesia
+https://dookeela.live/live-tv/tvn-indonesia/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1714100840.png" ,tvN MOVIES
+https://dookeela.live/live-tv/tvn-movies/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1703832225.png" ,Warner TV
+https://dookeela.live/live-tv/warnertv/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705503765.png" ,มังกร
+https://dookeela.live/live-tv/mangorn/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1704038567.png" ,Animax | Singapore
+https://dookeela.live/live-tv/animax/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1721687988.png" ,Astro Ceria
+https://dookeela.live/live-tv/astroceria/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705504202.png" ,Boomerang
+https://dookeela.live/live-tv/boomerang/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705504043.png" ,Cartoon Club HD
+https://dookeela.live/live-tv/cartoonclub/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1708344243.png" ,Cartoon Network
+https://dookeela.live/live-tv/cartoon-network/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1704039063.png" ,cartoonito
+https://dookeela.live/live-tv/cartoonito/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1709573298.png" ,CBeebies
+https://dookeela.live/live-tv/cbeebies/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1716361978.png" ,Disney Channel
+https://dookeela.live/live-tv/disney-channel/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1716362497.png" ,Disney Junior
+https://dookeela.live/live-tv/disney-junior/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1716362753.png" ,Disney XD
+https://dookeela.live/live-tv/disneyxd/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1723200736.png" ,DreamWorks
+https://dookeela.live/live-tv/dreamworks/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1721687729.png" ,Moonbug
+https://dookeela.live/live-tv/moonbug/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1708344362.png" ,Nick Jr.
+https://dookeela.live/live-tv/nickjr/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1708344306.png" ,Nickelodeon
+https://dookeela.live/live-tv/nickelodeon/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1713282303.png" ,nicktoons | Germany
+https://dookeela.live/live-tv/nicktoons/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1720723541.png" ,True Spark Play
+https://dookeela.live/live-tv/truesparkplay/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1706112700.png" ,Animal Planet
+https://dookeela.live/live-tv/animal-planet/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705537126.png" ,Animal Show
+https://dookeela.live/live-tv/animalshow/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1714101191.png" ,BBC EARTH
+https://dookeela.live/live-tv/bbc-earth/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1714101661.png" ,Crime + Investigation
+https://dookeela.live/live-tv/crime-investigation/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1706112738.png" ,Discovery
+https://dookeela.live/live-tv/discovery/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1706112755.png" ,Discovery Asia
+https://dookeela.live/live-tv/discovery-asia/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1714101765.png" ,DMAX
+https://dookeela.live/live-tv/dmax/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1713508875.png" ,Global Trekker Channel
+https://dookeela.live/live-tv/global-trekker-channel/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1713231372.png" ,History
+https://dookeela.live/live-tv/history/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1713508633.png" ,Love Nature 4K
+https://dookeela.live/live-tv/love-nature-4k/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705536991.png" ,MySci
+https://dookeela.live/live-tv/mysci/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1716363369.png" ,Nat Geo WILD
+https://dookeela.live/live-tv/nat-geo-wild/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1716366217.png" ,National Geographic
+https://dookeela.live/live-tv/national-geographic/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1724166670.png" ,True Explore Life
+https://dookeela.live/live-tv/trueexplorelife/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1724167268.png" ,True Explore Sci
+https://dookeela.live/live-tv/trueexploresci/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1724166218.png" ,True Explore Wild
+https://dookeela.live/live-tv/trueexplorewild/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705536821.png" ,สำรวจโลก
+https://dookeela.live/live-tv/samrujlok/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705785324.png" ,BBC News
+https://dookeela.live/live-tv/bbc-news/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705785346.png" ,Bloomberg Television
+https://dookeela.live/live-tv/bloomberg-television/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705785371.png" ,CCTV4
+https://dookeela.live/live-tv/cctv4/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1719802797.png" ,CNBC
+https://dookeela.live/live-tv/cnbc/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1705785357.png" ,CNN
+https://dookeela.live/live-tv/cnn/#|referrer=https://dookeela.live/
+#EXTINF:-1 group-title="DOOKEELA" tvg-logo="https://dookeela.live/uploads/1715648168.png" ,Sky Sports News | UK
+https://dookeela.live/live-tv/skysportsnews/#|referrer=https://dookeela.live/
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/3XIe0au.png" tvg-id="intro" ,🌍 Intro 🌍
+https://7pal.short.gy/intro
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ETzQJdt.png" tvg-id="SkySpMainEv.uk" ,SkySports_MainEventUHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/LIxOI3U.png" tvg-id="Astro.SuperSport.UHD.1.my" ,AstroSuperSportUHD
+https://7pal.short.gy/astrouhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" tvg-id="4k_DIGITAL_Mono_EN.bein" ,beIN4k
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" tvg-id="English.-.Now.Sports.4K.1.hk" ,NowSports1-4k
+https://7pal.short.gy/nowsport4k
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/THhLXO8.jpg" tvg-id="Hub.Premier.2.(HD).sg" ,HUBPremier2UHD
+https://7pal.short.gy/HubP2uhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/J2dnfBZ.png" tvg-id="V.sport.ULTRA.HD.fi" ,VSportUltraHD
+https://7pal.short.gy/VSportUHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" tvg-id="TNT.Sport.Ultimate.uk" ,TNTSport_Ultimate-4K_HDR
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" tvg-id="Digi.4K.ro" ,Digi4K
+https://7pal.short.gy/digi4k
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PUaJPaE.png" tvg-id="Eleven.Sports.1.4K.pl" ,ElevenSport1-4K
+https://7pal.short.gy/11sports1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EPIy6eZ.png" tvg-id="5SPORT.4K.[Sport.5.4K].il" ,5Sport4K
+https://7pal.short.gy/5sport
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/9wrgXyy.png" tvg-id="SkySp.F1.HD.uk" ,SkySportsF1UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wgvrku8.png" tvg-id="Sky.Sport.Bundesliga.UHD.de" ,SkySport_BundesligaUHD.de
+https://7pal.short.gy/ssblgde
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/APE7FAm.jpg" tvg-id="Eurosport.4K.ro" ,EuroSport4K
+https://7pal.short.gy/eusport4k
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" tvg-id="M..LaLiga.UHD.es" ,M+LaLigaUHD.es
+https://7pal.short.gy/mplusuhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://nesn.com/wp-content/uploads/sites/5/2019/10/webp.net-resizeimage.jpg" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" ,NESN_UHD
+https://7pal.short.gy/nesnuhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-id="TNTSports1.HD.uk" , TNTSports1-FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" tvg-id="TNT.Sports.2.uk" , TNTSports2-FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" tvg-id="TNTSports3.HD.uk" , TNTSports3-FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" tvg-id="TNTSports4.HD.uk" , TNTSports4-FHD
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mnAYZiQ.png" tvg-id="SkySpMainEvHD.uk" , SkySports_MainEvent-FHD
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/dUAIbXN.png" tvg-id="SkySp.PL.HD.uk" , SkySports_PremierLeague-FHD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/TRX5fQr.png" tvg-id="SkySp.Fball.HD.uk" , SkySports_Football-FHD
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/vKqGxqV.png" tvg-id="SkySp.F1.HD.uk" , SkySports_F1-FHD
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png" tvg-id="SkySp+.uk" , SkySports+FHD
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1YbopYK.png" tvg-id="SkySp.Tennis.HD.uk" , SkySports_Tennis-FHD
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6h5V23t.png" tvg-id="SkySp.Golf.HD.uk" , SkySports_Golf-FHD
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/I1gtyo7.png" tvg-id="SkySp.News.HD.uk" , SkySports_News-FHD
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/tXHyBzW.png" tvg-id="Sky.Action.HD.uk" , SkySports_Action-FHD
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sports_Box_Office.png/798px-Sky_Sports_Box_Office.png" tvg-id="SkySpBoxOff.uk" , SkySports_BoxOffice
+https://7pal.short.gy/ssportsbo
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/300/1447433721/1065.png" tvg-id="Eurosport.1.HD.uk" , Eurosport1_UK
+https://7pal.short.gy/eusport1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/300/1447433758/1150.png" tvg-id="Eurosport.2.HD.uk" , Eurosport2_UK
+https://7pal.short.gy/eusport2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/YqTCkGk.png" tvg-id="Premier.Sports.1.HD.ie" , PremierSports1-FHD
+https://7pal.short.gy/prsport1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RenHhOi.png" tvg-id="Premier.Sports.2.HD.ie" , PremierSports2-FHD
+https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" tvg-id="HubPremier.1.sg" , HubPremier1-FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" tvg-id="Hub.Premier.2.(HD).sg" , HubPremier2-FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" tvg-id="Hub.Premier.3.sg" , HubPremier3-FHD
+https://7pal.short.gy/HPremier3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PD1qeRO.jpg" tvg-id="USA.Network.HDTV.(East).(USAHD).us" , USA_NetWork-FHD
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" tvg-id="English.-.Now.Sports.Premier.League.1.hk" , NowSports_PremierLeague1-FHD
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" tvg-id="English.-.Now.Sports.Premier.League.2.hk" , NowSports_PremierLeague2-FHD
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" tvg-id="English.-.Now.Sports.Premier.League.3.hk" , NowSports_PremierLeague3-FHD
+https://7pal.short.gy/nowhkp3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" tvg-id="SKY.Sport.1.nz" , SkySport1_NZ-FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" tvg-id="SKY.Sport.2.nz" , SkySport2_NZ-FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" tvg-id="SKY.Sport.3.nz" , SkySport3_NZ-FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" tvg-id="SKY.Sport.4.nz" , SkySport4_NZ-FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" tvg-id="SKY.Sport.6.nz" , SkySport6_NZ-FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" tvg-id="SKY.Sport.7.nz" , SkySport7_NZ-FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" tvg-id="SKY.Sport.8.nz" , SkySport8-PremierLeague_NZ-FHD
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" tvg-id="FoxLeague.au" , Fox502_AU-FHD
+https://7pal.short.gy/fox502au
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/6/6551.1489224386.png" tvg-id="FoxSports503.au" , Fox503_AU-FHD
+https://7pal.short.gy/fox503au
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" tvg-id="Astro.SuperSport.HD.my" , Astro_Supersport1_MY-FHD
+https://7pal.short.gy/astross1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" tvg-id="Astro.SuperSport.2.HD.my" , Astro_Supersport2_MY-FHD
+https://7pal.short.gy/astross2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" tvg-id="Astro.SuperSport.3.HD.my" , Astro_Supersport3_MY-FHD
+https://7pal.short.gy/astross3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" tvg-id="Astro.SuperSport.4.HD.my" , Astro_Supersport4_MY-FHD
+https://7pal.short.gy/astross4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Boxa3qc.png" tvg-id="EPL.za" , Supersport_Premier_League-FHD
+https://7pal.short.gy/spersppl
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" tvg-id="FOOTBALL.za" , Supersport_Football-FHD
+https://7pal.short.gy/sperspfb
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" tvg-id="LA.LIGA.za" , Supersport_Laliga-FHD
+https://7pal.short.gy/sperspllg
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png" tvg-id="PSL.za" , Supersport_PSL-FHD
+https://7pal.short.gy/spersppsl
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/WpL99ea.png" tvg-id="MOTORSPORT.za" , Supersport_Motosport-FHD
+https://7pal.short.gy/sperspmts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" tvg-id="ACTION.za" , Supersport_Action-FHD
+https://7pal.short.gy/sperspat
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" tvg-id="RUGBY.za" , Supersport_Rugby-FHD
+https://7pal.short.gy/spersprb
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" tvg-id="GOLF.za" , Supersport_Golf-FHD
+https://7pal.short.gy/sperspgf
+#EXTINF:-1 group-title="Sports" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" tvg-id="TENNIS.za" , Supersport_Tennis-FHD
+https://7pal.short.gy/spersptns
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" , Sportsnet ONE
+https://7pal.short.gy/sptsnet1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" tvg-id="Sportsnet.360.HDTV.(360HD).ca" , Sportsnet 360
+https://7pal.short.gy/sptsnet360
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png" tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" , CBS_Sport_Network
+https://7pal.short.gy/cbssptnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" tvg-id="Madison.Square.Garden.HDTV.(MSG.HD).us" , USA:MSG
+https://7pal.short.gy/msgusa
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XKBiWym.jpg" tvg-id="The.NFL.Network.HDTV.(NFLHD).us" , USA:NFL_Network-FHD
+https://7pal.short.gy/nflnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" , USA:ESPN-HD
+https://7pal.short.gy/espnus
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" , USA:ESPN2-HD
+https://7pal.short.gy/espn2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Nq4lPP4.png" tvg-id="WWE.Network.us" , USA:WWE_Network
+https://7pal.short.gy/wwenw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/qAT0jSA.png" tvg-id="NBA.TV.HDTV.(NBA.HD).us" , USA:NBA_TV
+https://7pal.short.gy/nbatvus
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ZGrahiw.png" tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" , USA:MLB_Network
+https://7pal.short.gy/mlbnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png" tvg-id="NHL.Network.US.HDTV.(NHLHD).us" , USA:NHL_Network
+https://7pal.short.gy/nhlnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/ufc-logo-new-red.png" tvg-id="UFC.Fight.Pass.Dummy.us" , USA:UFC_24/7
+https://7pal.short.gy/ufc247
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/3XIe0au.png" tvg-id="intro" ,🌍 Intro 🌍
+https://7pal.short.gy/intro
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ETzQJdt.png" tvg-id="SkySpMainEv.uk" ,SkySports_MainEventUHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/LIxOI3U.png" tvg-id="Astro.SuperSport.UHD.1.my" ,AstroSuperSportUHD
+https://7pal.short.gy/astrouhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" tvg-id="4k_DIGITAL_Mono_EN.bein" ,beIN4k
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" tvg-id="English.-.Now.Sports.4K.1.hk" ,NowSports1-4k
+https://7pal.short.gy/nowsport4k
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/THhLXO8.jpg" tvg-id="Hub.Premier.2.(HD).sg" ,HUBPremier2UHD
+https://7pal.short.gy/HubP2uhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/J2dnfBZ.png" tvg-id="V.sport.ULTRA.HD.fi" ,VSportUltraHD
+https://7pal.short.gy/VSportUHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" tvg-id="TNT.Sport.Ultimate.uk" ,TNTSport_Ultimate-4K_HDR
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" tvg-id="Digi.4K.ro" ,Digi4K
+https://7pal.short.gy/digi4k
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PUaJPaE.png" tvg-id="Eleven.Sports.1.4K.pl" ,ElevenSport1-4K
+https://7pal.short.gy/11sports1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EPIy6eZ.png" tvg-id="5SPORT.4K.[Sport.5.4K].il" ,5Sport4K
+https://7pal.short.gy/5sport
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/9wrgXyy.png" tvg-id="SkySp.F1.HD.uk" ,SkySportsF1UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wgvrku8.png" tvg-id="Sky.Sport.Bundesliga.UHD.de" ,SkySport_BundesligaUHD.de
+https://7pal.short.gy/ssblgde
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/APE7FAm.jpg" tvg-id="Eurosport.4K.ro" ,EuroSport4K
+https://7pal.short.gy/eusport4k
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" tvg-id="M..LaLiga.UHD.es" ,M+LaLigaUHD.es
+https://7pal.short.gy/mplusuhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://nesn.com/wp-content/uploads/sites/5/2019/10/webp.net-resizeimage.jpg" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" ,NESN_UHD
+https://7pal.short.gy/nesnuhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-id="TNTSports1.HD.uk" , TNTSports1-FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" tvg-id="TNT.Sports.2.uk" , TNTSports2-FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" tvg-id="TNTSports3.HD.uk" , TNTSports3-FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" tvg-id="TNTSports4.HD.uk" , TNTSports4-FHD
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mnAYZiQ.png" tvg-id="SkySpMainEvHD.uk" , SkySports_MainEvent-FHD
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/dUAIbXN.png" tvg-id="SkySp.PL.HD.uk" , SkySports_PremierLeague-FHD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/TRX5fQr.png" tvg-id="SkySp.Fball.HD.uk" , SkySports_Football-FHD
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/vKqGxqV.png" tvg-id="SkySp.F1.HD.uk" , SkySports_F1-FHD
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png" tvg-id="SkySp+.uk" , SkySports+FHD
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1YbopYK.png" tvg-id="SkySp.Tennis.HD.uk" , SkySports_Tennis-FHD
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6h5V23t.png" tvg-id="SkySp.Golf.HD.uk" , SkySports_Golf-FHD
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/I1gtyo7.png" tvg-id="SkySp.News.HD.uk" , SkySports_News-FHD
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/tXHyBzW.png" tvg-id="Sky.Action.HD.uk" , SkySports_Action-FHD
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sports_Box_Office.png/798px-Sky_Sports_Box_Office.png" tvg-id="SkySpBoxOff.uk" , SkySports_BoxOffice
+https://7pal.short.gy/ssportsbo
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/300/1447433721/1065.png" tvg-id="Eurosport.1.HD.uk" , Eurosport1_UK
+https://7pal.short.gy/eusport1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/300/1447433758/1150.png" tvg-id="Eurosport.2.HD.uk" , Eurosport2_UK
+https://7pal.short.gy/eusport2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/YqTCkGk.png" tvg-id="Premier.Sports.1.HD.ie" , PremierSports1-FHD
+https://7pal.short.gy/prsport1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RenHhOi.png" tvg-id="Premier.Sports.2.HD.ie" , PremierSports2-FHD
+https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" tvg-id="HubPremier.1.sg" , HubPremier1-FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" tvg-id="Hub.Premier.2.(HD).sg" , HubPremier2-FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" tvg-id="Hub.Premier.3.sg" , HubPremier3-FHD
+https://7pal.short.gy/HPremier3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PD1qeRO.jpg" tvg-id="USA.Network.HDTV.(East).(USAHD).us" , USA_NetWork-FHD
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" tvg-id="English.-.Now.Sports.Premier.League.1.hk" , NowSports_PremierLeague1-FHD
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" tvg-id="English.-.Now.Sports.Premier.League.2.hk" , NowSports_PremierLeague2-FHD
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" tvg-id="English.-.Now.Sports.Premier.League.3.hk" , NowSports_PremierLeague3-FHD
+https://7pal.short.gy/nowhkp3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" tvg-id="SKY.Sport.1.nz" , SkySport1_NZ-FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" tvg-id="SKY.Sport.2.nz" , SkySport2_NZ-FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" tvg-id="SKY.Sport.3.nz" , SkySport3_NZ-FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" tvg-id="SKY.Sport.4.nz" , SkySport4_NZ-FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" tvg-id="SKY.Sport.6.nz" , SkySport6_NZ-FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" tvg-id="SKY.Sport.7.nz" , SkySport7_NZ-FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" tvg-id="SKY.Sport.8.nz" , SkySport8-PremierLeague_NZ-FHD
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" tvg-id="FoxLeague.au" , Fox502_AU-FHD
+https://7pal.short.gy/fox502au
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/6/6551.1489224386.png" tvg-id="FoxSports503.au" , Fox503_AU-FHD
+https://7pal.short.gy/fox503au
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" tvg-id="Astro.SuperSport.HD.my" , Astro_Supersport1_MY-FHD
+https://7pal.short.gy/astross1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" tvg-id="Astro.SuperSport.2.HD.my" , Astro_Supersport2_MY-FHD
+https://7pal.short.gy/astross2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" tvg-id="Astro.SuperSport.3.HD.my" , Astro_Supersport3_MY-FHD
+https://7pal.short.gy/astross3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" tvg-id="Astro.SuperSport.4.HD.my" , Astro_Supersport4_MY-FHD
+https://7pal.short.gy/astross4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Boxa3qc.png" tvg-id="EPL.za" , Supersport_Premier_League-FHD
+https://7pal.short.gy/spersppl
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" tvg-id="FOOTBALL.za" , Supersport_Football-FHD
+https://7pal.short.gy/sperspfb
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" tvg-id="LA.LIGA.za" , Supersport_Laliga-FHD
+https://7pal.short.gy/sperspllg
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png" tvg-id="PSL.za" , Supersport_PSL-FHD
+https://7pal.short.gy/spersppsl
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/WpL99ea.png" tvg-id="MOTORSPORT.za" , Supersport_Motosport-FHD
+https://7pal.short.gy/sperspmts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" tvg-id="ACTION.za" , Supersport_Action-FHD
+https://7pal.short.gy/sperspat
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" tvg-id="RUGBY.za" , Supersport_Rugby-FHD
+https://7pal.short.gy/spersprb
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" tvg-id="GOLF.za" , Supersport_Golf-FHD
+https://7pal.short.gy/sperspgf
+#EXTINF:-1 group-title="Sports" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" tvg-id="TENNIS.za" , Supersport_Tennis-FHD
+https://7pal.short.gy/spersptns
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" , Sportsnet ONE
+https://7pal.short.gy/sptsnet1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" tvg-id="Sportsnet.360.HDTV.(360HD).ca" , Sportsnet 360
+https://7pal.short.gy/sptsnet360
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png" tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" , CBS_Sport_Network
+https://7pal.short.gy/cbssptnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" tvg-id="Madison.Square.Garden.HDTV.(MSG.HD).us" , USA:MSG
+https://7pal.short.gy/msgusa
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XKBiWym.jpg" tvg-id="The.NFL.Network.HDTV.(NFLHD).us" , USA:NFL_Network-FHD
+https://7pal.short.gy/nflnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" , USA:ESPN-HD
+https://7pal.short.gy/espnus
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" , USA:ESPN2-HD
+https://7pal.short.gy/espn2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Nq4lPP4.png" tvg-id="WWE.Network.us" , USA:WWE_Network
+https://7pal.short.gy/wwenw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/qAT0jSA.png" tvg-id="NBA.TV.HDTV.(NBA.HD).us" , USA:NBA_TV
+https://7pal.short.gy/nbatvus
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ZGrahiw.png" tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" , USA:MLB_Network
+https://7pal.short.gy/mlbnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png" tvg-id="NHL.Network.US.HDTV.(NHLHD).us" , USA:NHL_Network
+https://7pal.short.gy/nhlnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/ufc-logo-new-red.png" tvg-id="UFC.Fight.Pass.Dummy.us" , USA:UFC_24/7
+https://7pal.short.gy/ufc247
+
+
+
