@@ -1,0 +1,481 @@
+#EXTM3U url-tvg="http://110.164.204.242:14688/epg.xml.gz?q=eyJ1c2VySWQiOiJoYW5kc29tZSJ9.QUBnysrXgkQCkDEiTVAQ-A3uCxvPjBIeixTJxUHU6dcxjbSddpSKjpDUwjtTPtm3CU1gX0xwH6uqT0-_CKNb5w"
+#EXTINF:-1 tvg-id="3 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="ดิจิตอล",3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/n5cc62fb/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="3 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="ดิจิตอล",3 HD-B
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000 AISPlaybox) / Android 7.1.2 / SM-G973N / ExoPlayerLib/2.6.0
+http://110.164.204.242:14688/channel/n4e45b3b0/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="CH5 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="ดิจิตอล",5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/n5cb7a3d/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="CH7 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="ดิจิตอล",7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/n5ca917f/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="MCOT HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ดิจิตอล",MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/n282c693b/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="NBT 2 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ดิจิตอล",NBT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/6bb75df8/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="TPBS.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="ดิจิตอล",TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/n5bcaf37/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Thairath TV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ดิจิตอล",Thairath TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/79f7e295/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="PPTV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ดิจิตอล",PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/n73035922/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="AmarinTV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="ดิจิตอล",AmarinTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/d0008bc/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ONE 31 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ดิจิตอล",ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/6e0e7f12/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ดิจิตอล",GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/4d6e5f2e/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Workpoint TV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="ดิจิตอล",Workpoint TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/n3d93d1c1/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="CH8.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="ดิจิตอล",CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/n6b8a7809/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="True 4 U.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ดิจิตอล",True4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/78a8dacb/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="MONO.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="ดิจิตอล",MONO29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/633c22a2/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ดิจิตอล",TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/n6b8a3768/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Nation TV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ดิจิตอล",Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/n4088f5a1/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="JKN 18.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ดิจิตอล",JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+http://110.164.204.242:14688/channel/656011f6/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://squidmantv.lfctv.online/baphoplus/imgs/baphohead.png" group-title="กีฬา",BAPHOTV
+http://110.164.204.242:14688/channel/n71715142/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png" group-title="กีฬา",AIS PLAY SPORTS 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000 AISPlaybox) / Android 7.1.2 / SM-G973N / ExoPlayerLib/2.6.0
+http://110.164.204.242:14688/channel/n740a6f0b/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="T-Sports7.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png" group-title="กีฬา",T Sport 7
+http://110.164.204.242:14688/channel/132c8f23/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="T-Sports7.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png" group-title="กีฬา",T Sport 7-B
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000 AISPlaybox) / Android 7.1.2 / SM-G973N / ExoPlayerLib/2.6.0
+http://110.164.204.242:14688/channel/ndd1a8fe/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht111" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="กีฬา",True Premier Football 1
+http://110.164.204.242:14688/channel/n28209218/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht111" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="กีฬา",True Premier Football 1-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/5dbb999d/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht111" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="กีฬา",True Premier Football 1-C
+http://110.164.204.242:14688/channel/5dbb999e/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht112" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="กีฬา",True Premier Football 2
+http://110.164.204.242:14688/channel/n28209217/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht112" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="กีฬา",True Premier Football 2-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n2a9daf02/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht113" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="กีฬา",True Premier Football 3
+http://110.164.204.242:14688/channel/n28209216/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht113" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="กีฬา",True Premier Football 3-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n43e501bc/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht114" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_original.png" group-title="กีฬา",True Premier Football 4
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n28209215/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht115" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png" group-title="กีฬา",True Premier Football 5
+http://110.164.204.242:14688/channel/n28209214/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="202" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="กีฬา",beIN SPORTS 1
+http://110.164.204.242:14688/channel/n1a552934/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="beIN SPORTS 1.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="กีฬา",beIN SPORTS 1-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/26505981/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="beIN SPORTS 2.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="กีฬา",beIN SPORTS 2
+http://110.164.204.242:14688/channel/n1a552933/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="beIN SPORTS 2.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="กีฬา",beIN SPORTS 2-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/26505d42/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="beIN SPORTS 3.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="กีฬา",beIN SPORTS 3
+http://110.164.204.242:14688/channel/n1a552932/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="beIN SPORTS 3.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="กีฬา",beIN SPORTS 3-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/26506103/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="beIN SPORTS 3.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="กีฬา",beIN SPORTS 3-C
+http://110.164.204.242:14688/channel/n30ba0797/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="217" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.png" group-title="กีฬา",beIN SPORTS 4
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n7f60591/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="219" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.png" group-title="กีฬา",beIN SPORTS 5
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n7f60590/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="216" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.png" group-title="กีฬา",beIN SPORTS 6
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n7f6058f/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="tev021" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.png" group-title="กีฬา",beIN SPORTS 7
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n7f6058e/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="097" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png" group-title="กีฬา",True Sports 1
+http://110.164.204.242:14688/channel/n625dcb5a/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht116" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_original.png" group-title="กีฬา",True Sports 2
+http://110.164.204.242:14688/channel/n625dcb59/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht117" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="กีฬา",True Sports 3
+http://110.164.204.242:14688/channel/n625dcb58/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="062" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png" group-title="กีฬา",True Sports 4
+http://110.164.204.242:14688/channel/n625dcb57/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="056" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png" group-title="กีฬา",True Sports 5
+#EXTVLCOPT:http-referer=https://dooball2you.com
+http://110.164.204.242:14688/channel/n625dcb56/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="105" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_original.png" group-title="กีฬา",True Sports 7
+#EXTVLCOPT:http-referer=https://dooball2you.com
+http://110.164.204.242:14688/channel/n625dcb54/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="t510" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/0038f4f0-a5c0-11ed-bad1-15d489ce9dcb_webp_original.png" group-title="กีฬา",SPOTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/2b68c029/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="t511" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.png" group-title="กีฬา",SPOTV 2
+http://110.164.204.242:14688/channel/2b68c02a/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="t511" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.png" group-title="กีฬา",SPOTV 2-B
+#EXTVLCOPT:http-referer=https://dooball2you.com
+http://110.164.204.242:14688/channel/n306e41f6/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="GOLF CHANNEL.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfChannelThailand.png" group-title="กีฬา",Golf Channel Thailand HD
+http://110.164.204.242:14688/channel/6a3dbcb6/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="045" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_original.png" group-title="กีฬา",True Tennis
+http://110.164.204.242:14688/channel/n12b75ccf/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lLpnYjKl6AE/hqdefault.jpg" group-title="กีฬา",ฟุตซอลไทยลีก
+http://110.164.204.242:14688/channel/n10ca2977/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="vc01" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.png" group-title="กีฬา",True Ball Thai 1
+http://110.164.204.242:14688/channel/13173778/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="vc01" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.png" group-title="กีฬา",True Ball Thai 1-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/5cd5f8d/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="vc02" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.png" group-title="กีฬา",True Ball Thai 2
+http://110.164.204.242:14688/channel/13173779/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="vc02" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.png" group-title="กีฬา",True Ball Thai 2-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/5cd634e/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="vc03" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.png" group-title="กีฬา",True Ball Thai 3
+http://110.164.204.242:14688/channel/1317377a/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="vc03" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.png" group-title="กีฬา",True Ball Thai 3-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/5cd670f/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="vc07" tvg-logo="https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.png" group-title="กีฬา",True Ball Thai 4
+http://110.164.204.242:14688/channel/1317377b/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="vc07" tvg-logo="https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.png" group-title="กีฬา",True Ball Thai 4-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/5cd6ad0/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="tev015" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.png" group-title="กีฬา",True Ball Thai 5
+http://110.164.204.242:14688/channel/1317377c/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="tev016" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.png" group-title="กีฬา",True Ball Thai 6
+http://110.164.204.242:14688/channel/1317377d/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="tev017" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.png" group-title="กีฬา",True Ball Thai 7
+http://110.164.204.242:14688/channel/1317377e/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="tev018" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.png" group-title="กีฬา",True Ball Thai 8
+http://110.164.204.242:14688/channel/1317377f/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="tev019" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.png" group-title="กีฬา",True Ball Thai 9
+http://110.164.204.242:14688/channel/13173780/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="tev020" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.png" group-title="กีฬา",True Ball Thai 10
+http://110.164.204.242:14688/channel/4fcfb7b8/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="65cac8083008d3708faa7241" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png" group-title="กีฬา",SIAMSPORT 1
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n178721b9/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="65cadf6bf4253dcd4a25f596" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png" group-title="กีฬา",SIAMSPORT 2
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n178721b8/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="65cadf6bf4253dcd4a25f596" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png" group-title="กีฬา",SIAMSPORT 2-B
+http://110.164.204.242:14688/channel/n64a4b1a3/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="65cae3dd222d88580e469d38" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png" group-title="กีฬา",SIAMSPORT 3
+http://110.164.204.242:14688/channel/n209aad57/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="65cae3dd222d88580e469d38" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png" group-title="กีฬา",SIAMSPORT 3 B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n52458bd5/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="65cae466b985298c7b3a5d6d" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png" group-title="กีฬา",SIAMSPORT 4
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n209aad56/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="65cae466b985298c7b3a5d6d" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png" group-title="กีฬา",SIAMSPORT 4-B
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n52458681/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://ia902706.us.archive.org/16/items/sky-sports-main-event-uhd/Sky_Sports_Main_Event_UHD.png" group-title="กีฬาต่างประเทศ",Sky Sports Main Event UHD
+http://110.164.204.242:14688/channel/2a3add2b/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="TNTSports4HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png" group-title="กีฬาต่างประเทศ",TNT Sports UHD
+http://110.164.204.242:14688/channel/43be0371/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="กีฬาต่างประเทศ",NOW Sports 4K
+http://110.164.204.242:14688/channel/n52a40a2d/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="กีฬาต่างประเทศ",MUTV
+http://110.164.204.242:14688/channel/n5bfc8da/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png" group-title="กีฬาต่างประเทศ",LFCTV
+http://110.164.204.242:14688/channel/4db184cf/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png" group-title="กีฬาต่างประเทศ",LFCTV-B
+http://110.164.204.242:14688/channel/n589c6d3c/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="กีฬาต่างประเทศ",Sport TV 1
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/445f63bb/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vpwuyu1470409212.png" group-title="กีฬาต่างประเทศ",Sport TV 2
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/445f63bc/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png" group-title="กีฬาต่างประเทศ",Sport TV 3
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/445f63bd/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vuytwx1470409983.png" group-title="กีฬาต่างประเทศ",Sport TV 4
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/445f63be/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub.png" group-title="กีฬาต่างประเทศ",SportKlub 1
+http://110.164.204.242:14688/channel/n76c4d3c9/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-2.png" group-title="กีฬาต่างประเทศ",SportKlub 2
+http://110.164.204.242:14688/channel/n76c4d3c8/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-3.png" group-title="กีฬาต่างประเทศ",SportKlub 3
+http://110.164.204.242:14688/channel/n76c4d3c7/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="กีฬาต่างประเทศ",Astro Supersport 1
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/3ce07127/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="กีฬาต่างประเทศ",Astro Supersport 2
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/3ce07128/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png" group-title="กีฬาต่างประเทศ",Astro Supersport 3
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/3ce07129/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png" group-title="กีฬาต่างประเทศ",Astro Supersport 4
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/3ce0712a/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-logo="https://cloudiptv.me/images/tv/zUkGWIyObobzTiLhVb0itCBJFLX3XFZ20240625171427FOX_Sports_1_US.jpg" group-title="กีฬาต่างประเทศ",FOX Sports 1 US
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/2eceb801/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-logo="https://cloudiptv.me/images/tv/c52dJYy5CNEw7jjsPdcc7k8zueQzJuu20240625171924FOX_Sports_2_US.jpg" group-title="กีฬาต่างประเทศ",FOX Sports 2 US
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/2ecf2c60/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="กีฬาต่างประเทศ",ESPN 1 US
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n5667867b/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="กีฬาต่างประเทศ",ESPN 2 US
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n5667121c/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="กีฬาต่างประเทศ",TNT Sports 1
+http://110.164.204.242:14688/channel/n1bf0cace/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png" group-title="กีฬาต่างประเทศ",Sky Sports Main Event
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n2ddfa2a7/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="กีฬาต่างประเทศ",Sky Sports Premier League
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/4bccd1e9/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png" group-title="กีฬาต่างประเทศ",Sky Sports F1
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/25e12291/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Sky_Sports_Golf_HD.png" group-title="กีฬาต่างประเทศ",Sky Sports Golf
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/32242ce8/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png" group-title="กีฬาต่างประเทศ",Eurosport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n46475da4/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1200px-Eurosport_2_Logo_2015.svg.png" group-title="กีฬาต่างประเทศ",Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n46475da3/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://pngfre.com/wp-content/uploads/Wwe-1.png" group-title="กีฬาต่างประเทศ",WWE
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/2d1f0089/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2024/09/Nong-Moo-Deng4548-5.jpg" group-title="สารคดี",น้องหมูเด้ง
+http://110.164.204.242:14688/channel/n515c3a7/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240617204638FWDoc.jpg" group-title="สารคดี",FWDOC
+http://110.164.204.242:14688/channel/4d64b52b/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht005" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_original.png" group-title="สารคดี",Love Nature
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/nce77367/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="141" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/22/e7189340-f183-11ec-a182-bfa9d2091cc3_webp_original.png" group-title="สารคดี",History
+http://110.164.204.242:14688/channel/12379df8/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Animal Planet.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png" group-title="สารคดี",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/7fdce2c0/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Discovery.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="สารคดี",Discovery Channel
+http://110.164.204.242:14688/channel/1ba1d2d7/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Discovery Asia.th" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png" group-title="สารคดี",Discovery Asia
+http://110.164.204.242:14688/channel/34476f76/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht006" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png" group-title="สารคดี",BBC Earth
+http://110.164.204.242:14688/channel/n66fa41af/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="TLC.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/b7dfcc90-b550-11ea-b61c-7dd99cb3fb2c_original.png" group-title="สารคดี",TLC
+http://110.164.204.242:14688/channel/n6b8a37b1/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="t517" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.png" group-title="สารคดี",Crime+Investigation
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n5989a93/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Global Trekker.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png" group-title="สารคดี",Global Trekker
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n362b44ed/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="NationalGeographicWild.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="สารคดี",Nat Geo Wild (EN)
+http://110.164.204.242:14688/channel/n66e0489c/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="สารคดี",National Geographic (EN)
+http://110.164.204.242:14688/channel/n5869a7f1/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="058" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png" group-title="สารคดี",True Explore Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n2eab50d3/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="060" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png" group-title="สารคดี",True Explore Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n2eb051a1/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="061" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png" group-title="สารคดี",True Explore Sci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n649a3baa/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="สารคดี",Samrojlok
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/41dc835e/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="สารคดี",MySci
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/4dd70931/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://uppic.cloud/ib/lhfW8bB2W9V0f9l_1720004807.png" group-title="สารคดี",Doxzilla
+http://110.164.204.242:14688/channel/n248938bf/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="สารคดี",ของดีประเทศไทย
+http://110.164.204.242:14688/channel/n1b73d4db/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="สารคดี",Thainess
+http://110.164.204.242:14688/channel/n40eee2f1/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="สารคดี",Animal Show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n117189db/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240429213309FWMOV.jpg" group-title="ภาพยนต์",FWMOV
+http://110.164.204.242:14688/channel/4d64d707/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240429213326FWSOV.jpg" group-title="ภาพยนต์",FWSOV
+http://110.164.204.242:14688/channel/4d64ed8d/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="HBO.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ภาพยนต์",HBO HD EN
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n7279027a/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="HBO.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ภาพยนต์",HBO HD TH
+http://110.164.204.242:14688/channel/n727900af/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="HBO Signature.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ภาพยนต์",HBO Signature
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n5b4f94af/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="HBO Hits.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="ภาพยนต์",HBO Hits
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n1c76eef9/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="HBO Family.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ภาพยนต์",HBO Family
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n17d84835/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ภาพยนต์",Cinemax
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n73aa7f55/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Warner TV.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/01/30/3ba220b0-a067-11ed-b6c3-55fdace413e0_webp_original.png" group-title="ภาพยนต์",Warner TV
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n6bf0638d/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="057" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="ภาพยนต์",True Movie Hits
+http://110.164.204.242:14688/channel/4ce371a6/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="094" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_original.png" group-title="ภาพยนต์",True Thai Film
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/73397b92/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="t500" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_original.png" group-title="ภาพยนต์",True Film Asia
+http://110.164.204.242:14688/channel/c1263f0/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="081" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ภาพยนต์",True Asian More
+http://110.164.204.242:14688/channel/4c40b887/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="st006" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_original.png" group-title="ภาพยนต์",True Series
+http://110.164.204.242:14688/channel/n146a7733/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="176" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="ภาพยนต์",True Film HD
+http://110.164.204.242:14688/channel/n2215d27e/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="221" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="ภาพยนต์",True Film HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/c14d914/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ROCK Action.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/fee1c960-a5bf-11ed-86b7-bd4ad7cde902_webp_original.png" group-title="ภาพยนต์",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n376b712b/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="224" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/032a96a0-a5c0-11ed-8dc1-ab0c3700c1c8_webp_original.png" group-title="ภาพยนต์",CCM
+http://110.164.204.242:14688/channel/n6b8a788f/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="3BB Asian.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="ภาพยนต์",3BB Asian
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/25aea23b/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="MONO29 Plus.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ภาพยนต์",MONO29 Plus
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n7f729d2c/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hero2fd74a60fb19aaae.png" group-title="ภาพยนต์",Hero
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n5c1ceea/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="034" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/20/9d2ae810-b0fe-11ed-8d7f-25d8a206765c_webp_original.png" group-title="บันเทิง",True X-Zyte
+http://110.164.204.242:14688/channel/nf020b65/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ht001" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="บันเทิง",AXN
+http://110.164.204.242:14688/channel/n6b8a7d85/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Food Network.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" group-title="บันเทิง",Food Network
+http://110.164.204.242:14688/channel/65ce168/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Asian Food Network.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png" group-title="บันเทิง",Asian Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/4a590e44/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="st003" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="บันเทิง",BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n3e3d4944/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="174" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png" group-title="บันเทิง",Lifetime
+http://110.164.204.242:14688/channel/n42bf691b/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e390ce10-fb8a-11ed-bc37-ad85dfabfb01_webp_original.png" group-title="บันเทิง",ROCK Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/298c89e9/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="121" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="บันเทิง",KMTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n5c0cfa0/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240421225339%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg" group-title="บันเทิง",ถื่นใต้
+http://110.164.204.242:14688/channel/n53a776d7/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240429213343just_for_laughs_gags.jpg" group-title="บันเทิง",GAGS
+http://110.164.204.242:14688/channel/n5c2cfbe/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240418200733Justfun.jpg" group-title="บันเทิง",JustFun
+http://110.164.204.242:14688/channel/n6f825da9/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240429213651FWTOON.jpg" group-title="การ์ตูน",FWTOON
+http://110.164.204.242:14688/channel/5f3937e7/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Cartoon Network.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/df4ff010-fb8a-11ed-85ca-7d9b373a85e7_webp_original.png" group-title="การ์ตูน",Cartoon Network
+http://110.164.204.242:14688/channel/584e34c0/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="t509" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/28/0495d070-2012-11ec-9629-7dc4459cd94d_webp_original.png" group-title="การ์ตูน",DreamWorks
+http://110.164.204.242:14688/channel/n44d5b6a5/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="007" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png" group-title="การ์ตูน",True Spark Play
+http://110.164.204.242:14688/channel/n43f51f3/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png" group-title="การ์ตูน",Cartoon Club
+http://110.164.204.242:14688/channel/n1315be7b/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png" group-title="การ์ตูน",Boomerang
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/785c6266/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Nick Jr..th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" group-title="การ์ตูน",Nick JR.
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/62736525/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Nickelodeon.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="การ์ตูน",Nickelodeon
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/506cc909/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Cartoonito.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="การ์ตูน",Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/26967692/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sky-sports-news-3-logo-png-transparent.png" group-title="ข่าวต่างประเทศ",Sky Sports News
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/3b027bb9/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="CNN.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e00a1850-fb8a-11ed-bf86-7b9263bde387_webp_original.png" group-title="ข่าวต่างประเทศ",CNN
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/n6b8a7739/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="BBC News.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/1fcb1980-d79f-11ee-b9a6-6d06a62b7aad_webp_original.png" group-title="ข่าวต่างประเทศ",BBC News
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/5fca87ec/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/15/Fox-News-Logo-PNG-Picture.png" group-title="ข่าวต่างประเทศ",Fox News
+http://110.164.204.242:14688/channel/n59c78140/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="CCTV4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png" group-title="ข่าวต่างประเทศ",CCTV4
+#EXTVLCOPT:http-referer=https://soccertv4k.com
+http://110.164.204.242:14688/channel/4d319416/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="Channel News Asia.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png" group-title="ข่าวต่างประเทศ",Channel News Asia
+http://110.164.204.242:14688/channel/n6c00a082/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="211" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2cba950-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="ข่าวต่างประเทศ",NHK WORLD-JAPAN
+http://110.164.204.242:14688/channel/n370d29d6/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png" group-title="ข่าวต่างประเทศ",Al Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+#EXTVLCOPT:http-referer=https://beta.m-fixer.net
+http://110.164.204.242:14688/channel/n6e3ebb87/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="RT Channel.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png" group-title="ข่าวต่างประเทศ",RT Channel
+http://110.164.204.242:14688/channel/n758452d7/index.m3u8?q=92ca24ebd1935c1b705662e35e82c693
+#EXTINF:-1 tvg-id="TOP News.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ดิจิตอล",TOP News
+https://live.topnews.co.th/hls/topnews_a_480.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ดิจิตอล",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="บันเทิง",Fashion TV
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
