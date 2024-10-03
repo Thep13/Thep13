@@ -1,0 +1,87 @@
+#EXTM3U 
+
+
+
+
+#EXTINF:-1,== ช่องกีฬา ===
+#EXTINF:-1,
+
+
+
+#EXTINF:-1,True Premier 1/1
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premier 1/2
+https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
+
+#EXTINF:-1,True Premier 2/1
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True Premier 2/2
+https://www.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8
+
+#EXTINF:-1,True Premier 3/1
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,True Premier 3/2
+https://www.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8
+
+#EXTINF:-1,True Premier 4/1
+https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,True Premier 4/2
+https://www.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8
+
+#EXTINF:-1,True Premier 5/1
+https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,True Premier 5/2
+https://www.livedoomovies.com:4432/02_PremierHD5_480p/chunklist.m3u8
+
+
+#EXTINF:-1,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1,SPOTV 1
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1,SPOTV 2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+
+
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TRUE PREMIER HD-1
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TRUE PREMIER HD-2
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TRUE PREMIER HD-3
+https://dookeela.live/live-tv/epl3#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TRUE PREMIER HD-4
+https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TRUE PREMIER HD-5
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TSP HD1
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TSP HD2
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TSP HD-3
+https://dookeela.live/live-tv/tsp3#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TSP HD-4
+https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",TSP5
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",TSP7
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",BEIN1
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",BEIN2
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",BEIN3
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",GOLF
+https://dookeela.live/live-tv/golf#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",TENNIS
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.youdooball.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",SPOTV1
+https://dookeela.live/live-tv/spotv#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",SPOTV2
+https://dookeela.live/live-tv/spotv2#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",LFCTV
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",MUTV
+https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8|Referer=https://freetvdd.com/
