@@ -86,35 +86,6 @@ https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8|Referer=h
 #EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",MUTV
 https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",HBO HD
-https://dookeela.live/live-tv/hbo#|Referer=https://dookeela.live/live-tv/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",HBO HITS
-https://dookeela.live/live-tv/hbo-hits#|Referer=https://dookeela.live/live-tv/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",HBO SIGNATURE
-https://dookeela.live/live-tv/hbo-signature#|Referer=https://dookeela.live/live-tv
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",HBO FAMILY
-https://dookeela.live/live-tv/hbo-family#|Referer=https://dookeela.live/live-tv/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",CINEMAX
-https://dookeela.live/live-tv/cinemax#|Referer=https://dookeela.live/live-tv/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TRUE THAIHILM
-https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8|Referer=https://livescorethai.net/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TRUE SERIES
-https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=https://freetvdd.com/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",AXN
-https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",WARNER TV  
-https://dookeela.live/live-tv/warnertv#|Referer=https://dookeela.live/live-tv
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",PARAMOUNT NETWORK
-https://dookeela.live/live-tv/paramount-network#|Referer=https://dookeela.live/live-tv/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TERUE MOVIE HITS
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|Referer=https://freetvdd.com/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",LIFETIME
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TRUE XZYTE
-https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TRUEFILMHD1
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TRUE FILMHD2
-https://livesod365.com/live/hd-tfilm2/Film%20HD%202/|Referer=https://livesod365.com/channel/
+
 
 
