@@ -1,5 +1,67 @@
 #EXTM3U
-
+#EXTINF:0,CH 5
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+#EXTINF:0,TSport7
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF:0,TPTV
+#EXTGRP:FREETV
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8
+#EXTINF:0,Nation HD
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+#EXTINF:0,Workpoint23
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
+#EXTINF:0,True4U
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+#EXTINF:0,GMM25
+#EXTGRP:FREETV
+https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
+#EXTINF:0,CH 8
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+#EXTINF:0,CH3  3BB
+#EXTGRP:FREETV
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+#EXTINF:0,MCOT
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+#EXTINF:0,CH 3
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+#EXTINF:0,CH3 FHD
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+#EXTINF:0,ONE HD
+#EXTGRP:FREETV
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
+#EXTINF:0,AMARIN 34
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+#EXTINF:0,Thairath-B
+#EXTGRP:FREETV
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+#EXTINF:0,Amarin
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+#EXTINF:0,MONO29-B
+#EXTGRP:FREETV
+https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
+#EXTINF:0,CH 7
+#EXTGRP:FREETV
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+#EXTINF:0,Thairath
+#EXTGRP:FREETV
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+#EXTINF:0,PPTV-B
+#EXTGRP:FREETV
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF:0,NEWS 1
+#EXTGRP:FREETV
+http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:0,True Premier Football 1
 #EXTGRP:TRUE SPORTS
