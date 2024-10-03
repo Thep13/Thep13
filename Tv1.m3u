@@ -1,6 +1,12 @@
 #EXTM3U 
 
+
+
+
 #EXTINF:-1,== ช่องกีฬา ===
+#EXTINF:-1,
+
+
 
 #EXTINF:-1,True Premier 1/1
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
@@ -79,7 +85,3 @@ https://dookeela.live/live-tv/spotv2#|Referer=https://dookeela.live/live-tv
 https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",MUTV
 https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8|Referer=https://freetvdd.com/
-
-
-
-
