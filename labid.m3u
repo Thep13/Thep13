@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="sports" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" , ten sports
+http://xtv.ooo:8080/live/Galaxy.2/4321/167569.ts
+#EXTINF:-1 group-title="sports" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" , ten 3
+http://opplex.tv:8080/live/global/global/167572.ts
+#EXTINF:-1 group-title="sports" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" , sport tv 1
+http://opplex.tv:8080/live/global/global/352930.ts
+#EXTINF:-1 group-title="sports" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" , SSC 1
+http://opplex.tv:8080/live/global/global/353561.ts
+#EXTINF:-1 group-title="sports" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" , sport 18 1
+http://opplex.tv:8080/live/global/global/382205.ts
+#EXTINF:-1 group-title="sports" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/01/Willow-is-on-DIRECTV.png" , WILLOW EXTRA
+http://xtv.ooo:8080/live/Galaxy.2/4321/167582.ts
+#EXTINF:-1 group-title="sports" ,WWE
+http://opplex.tv:8080/live/global/global/383065.ts
+#EXTINF:-1 group-title="sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" ,ASTRO SPORTS 1
+http://xtv.ooo:8080/live/Galaxy.2/4321/352087.ts
+#EXTINF:-1 group-title="sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" ,ASTRO SPORTS 2
+http://xtv.ooo:8080/live/Galaxy.2/4321/352088.ts
+#EXTINF:-1 group-title="sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" ,ASTRO SPORTS 3
+http://xtv.ooo:8080/live/Galaxy.2/4321/352089.ts
+#EXTINF:-1 group-title="sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" ,ASTRO SPORTS 4
+http://xtv.ooo:8080/live/Galaxy.2/4321/352090.ts
