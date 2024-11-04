@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+    <title>freetv 1.3</title>
+    <meta name="description" content="freetvดูฟรี ห้ามจำหน่าย อย่านำไปแสวงหาผลประโยชน์"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="0;url=https://www.google.co.th/">
+    <style>
+        body {
+            background-color: #000000;
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        marquee {
+            color: yellow; /* เปลี่ยนสีข้อความ */
+            font-size: 24px; /* ขนาดของตัวอักษร */
+            margin: 20px 0; /* ระยะห่างด้านบนและล่าง */
+        }
+        iframe {
+            width: 100%;
+            height: 400px; /* ปรับความสูงของ iframe ตามต้องการ */
+            border: none; /* ไม่มีเส้นขอบ */
+        }
+    </style>
+</head>
+<body>
+    <h2><img src="https://img2.pic.in.th/pic/gbscell_aipitv.png" alt="FreeTV Logo"></h2>
+
+    <marquee behavior="scroll" direction="left">มาหาลิงค์เลยจ๊ะ</marquee>
+
+    <!-- iframe แสดงเนื้อหาจากลิงค์ที่ซ่อนอยู่ -->
+    <iframe src="https://drive.google.com/uc?id=1BU5i_kmrTA9PJkrG74Hlk15_lxbZM7c-" title="Link Content"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ข้อมูล M3U ถูกซ่อน -->
+    <pre style="display: none;">
+#EXTM3U 
+url="https://drive.google.com/uc?id=1BU5i_kmrTA9PJkrG74Hlk15_lxbZM7c-"
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0003.png" group-title="รายการทีวีดิจิตอล",033.CH3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+#EXTINF:-1 tvg-id="" tvg-id="TV5HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="รายการทีวีดิจิตอล",001.TV5HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+#EXTINF:-1 tvg-id="" tvg-id="Ch7HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0018.png" group-title="รายการทีวีดิจิตอล",035.Ch7HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+#EXTINF:-1 tvg-id="" tvg-id="MCOTHD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0008.png" group-title="รายการทีวีดิจิตอล",030.MCOT HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+#EXTINF:-1 tvg-id="" tvg-id="ThaiPBS.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="รายการทีวีดิจิตอล",003.ThaiPBS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
+#EXTINF:-1 tvg-id="" tvg-id="TPTV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="รายการทีวีดิจิตอล", 010.TPTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
+#EXTINF:-1 tvg-id="" tvg-id="NBT.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="รายการทีวีดิจิตอล",002.NBT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
+#EXTINF:-1 tvg-id="" tvg-id="ONE31.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0012.png" group-title="รายการทีวีดิจิตอล",031.ONE31
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+#EXTINF:-1 tvg-id="" tvg-id="ThairathTV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="รายการทีวีดิจิตอล",032.Thairath TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+#EXTINF:-1 tvg-id="" tvg-id="AmarinTV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="รายการทีวีดิจิตอล",034.Amarin TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+#EXTINF:-1 tvg-id="" tvg-id="PPTVHD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0022.png" group-title="รายการทีวีดิจิตอล",036.PPTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="รายการทีวีดิจิตอล",039.Top News
+http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
+
+#EXTINF:-1 tvg-id="News1.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/-182a9c72190bef7a5.png" group-title="รายการทีวีดิจิตอล",040. News 1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-id="" tvg-id="TSports7.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="รายการทีวีดิจิตอล",007.T Sports 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+#EXTINF:-1 tvg-id="" tvg-id="JKN18.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="รายการทีวีดิจิตอล",018.JKN 18
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
+#EXTINF:-1 tvg-id="" tvg-id="NationTV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="รายการทีวีดิจิตอล",022.Nation TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+#EXTINF:-1 tvg-id="" tvg-id="Workpoint.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="รายการทีวีดิจิตอล",023.Workpoint TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="รายการทีวีดิจิตอล",024.True4U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+#EXTINF:-1 tvg-id="" tvg-id="TNN16.th" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png" group-title="รายการทีวีดิจิตอล",016.TNN16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+#EXTINF:-1 tvg-id="" tvg-id="MONO29.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0016.png" group-title="รายการทีวีดิจิตอล",029.MONO29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-id="" tvg-id="CH8.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="รายการทีวีดิจิตอล",027.CH8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+#EXTINF:-1 tvg-id="" tvg-id="GMM25.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="รายการทีวีดิจิตอล",025GMM 25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+#########
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png" group-title="ทีวีเด็ก",001.Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="ทีวีเด็ก",003.Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="ทีวีเด็ก", 000.Boomerang
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="ทีวีเด็ก",004.Nick Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/17282969/BoomAnime.png" group-title="ทีวีเด็ก",000.Boom Anime
+https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="ทีวีเด็ก",MoonBug
+http://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" group-title="ทีวีเด็ก",Zoomoo
+http://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/17294329/PBSKID.png" group-title="ทีวีเด็ก" , PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="ทีวีเด็ก",Pet Collective1
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="ทีวีเด็ก",PetClub TV2
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/oie_transparent-16c9a3bf9d6565052.png"group-title="ทีวีเด็ก" ,Nicktoons
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium649/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/โลโก้_การ์ตูนคลับแชนแนล.jpg" group-title="ทีวีเด็ก",Cartoon Club
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ทีวีเด็ก" tvg-name="Cartoon Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOizJUNYWqb5OghWnAD6DFkBPdf8auFXfLQ&usqp=CAU" ,Cartoon Network
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium339/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/17275059/Gags.png" group-title="ทีวีเด็ก", Gags
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+
+#EXTINF:-1 tvg-id="" group-title="ทีวีเด็ก" tvg-name="Disney Channel" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-2ba31c4238134febe.png" ,Disney Channel
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium312/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ทีวีเด็ก" tvg-name="Disney XD" tvg-logo="https://img2.pic.in.th/pic/IMG_20241022_232005.png" ,Disney XD
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium314/index.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" group-title="ทีวีเด็ก",Zoo Moo (1080p)
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img5.pic.in.th/file/secure-sv1/-2a08f8f9c7e43cc57.jpeg" group-title="รายการทีวีดิจิตอล", สุวรรณภูมิทีวี
+http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://13livetv.com/asset/logo-512.png" group-title="รายการทีวีดิจิตอล", 13สยามไท
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png" group-title="รายการทีวีดิจิตอล",VIPA
+http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/17280137/Child.png" group-title="รายการทีวีดิจิตอล", สามเณรปลูกปัญญา
+http://moviektu.com/key/live/digital/Realitychannel-HD/k.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.altv.tv/images/assets/logo.png" group-title="รายการทีวีดิจิตอล", 004.ALTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
+https://cco-streamer4.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/17277049/STOU.png" group-title="รายการทีวีดิจิตอล",STOU
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.etvthai.tv/images_new/logo.png" group-title="รายการทีวีดิจิตอล", ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms-backend-ott.prd.go.th/images/upload/1680683186938.png" group-title="รายการทีวีดิจิตอล",NBT11 Central
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms-backend-ott.prd.go.th/images/upload/1680683209698.png" group-title="รายการทีวีดิจิตอล",NBT11 North
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms-backend-ott.prd.go.th/images/upload/1680683194715.png" group-title="รายการทีวีดิจิตอล",NBT11 Northeast
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms-backend-ott.prd.go.th/images/upload/1680683200917.png" group-title="รายการทีวีดิจิตอล",NBT11 South
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms-backend-ott.prd.go.th/images/upload/1680683123678.png" group-title="รายการทีวีดิจิตอล",NBT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GhboFGt.png" group-title="รายการทีวีดิจิตอล",Police TV
+http://54c241893bf39.streamlock.net:1935/policetv/policetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="รายการทีวีดิจิตอล" tvg-name="BBC America (BBCA)" tvg-logo="https://img2.pic.in.th/pic/d927fc50ddc50d103746b16cdf79c2c1.png" ,037.BBC America (BBCA)
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium305/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="รายการทีวีดิจิตอล" tvg-name="CNN USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCEpiKH3yzhUU4dhIm3X7ut_wmQGYZc_4suA&usqp=CAU" ,038.CNN USA
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNj.jp" tvg-logo="https://i.imgur.com/Ft6wEdO.png" group-title="รายการทีวีดิจิตอล",039.CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
+&&&-------&&&&&&&&&&---&&&&&&&
+#£#£££####££########£££££££#
+
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="ช่องหนังทีวี",000.3BB Asian
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+#EXTINF:-1 tvg-id="MONOPLUS.th" tvg-name="MonoPlus" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องหนังทีวี", 000.MONO29 PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+#EXTINF:-1 tvg-id="" tvg-id="HBO.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องหนังทีวี", 001.HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+#EXTINF:-1 tvg-id="" tvg-id="HBO Signature.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องหนังทีวี", 001.HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+#EXTINF:-1 tvg-id="" tvg-id="HBO Hits.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องหนังทีวี", 002.HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+#EXTINF:-1 tvg-id="" tvg-id="HBO Family.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องหนังทีวี", 003.HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+#EXTINF:-1 tvg-id="" tvg-id="CINEMAX.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องหนังทีวี",004.Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+#EXTINF:-1 tvg-id="" tvg-id="CINEMAX.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องหนังทีวี",004.Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/204/204.mpd
+#EXTINF:-1 tvg-id="CoolChannel.th" tvg-name="Cool Channel" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="ช่องหนังทีวี ",Cool Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 8 THAILAND" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png" group-title="ช่องหนังทีวี ",Channel 8 THAILAND
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png" group-title="ช่องหนังทีวี",แอดทีวี
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png" group-title="ช่องหนังทีวี",มังกร
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/17289501/Chaingrai.png" group-title="ช่องหนังทีวี",ช่องเชียงราย
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/17284389/PTV.png" group-title="ช่องหนังทีวี",ช่อง PTV
+https://cdn-th-vip.livestreaming.in.th/actionto/actionto/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" ,Animal Planet
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium304/index.m3u8
+
+##########################
+#EXTINF:-1 group-title="สารคดี" tvg-name="HGTV" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-505841fc9ce5642e3.jpeg",HGTV
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium382/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="สารคดี",Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="สารคดี",Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
+#EXTINF:-1 tvg-id="" group-title="สารคดี" tvg-name="History USA" tvg-logo="https://img2.pic.in.th/pic/images-62e186a9586aa0411.jpeg" ,History USA
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium322/index.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.upload.ee/image/17282862/Hisport.png", HiSports HD
+http://203.154.243.89:11001/hisport?m3u8
+
+###########################
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/17289583/WWE.png" group-title="กีฬา", WWE
+http://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="กีฬา", 000.3BB Sport One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/17293050/GOSport.png" group-title="กีฬา",ช่อง GO Sports
+https://cdn-th-vip.livestreaming.in.th/gosporttv/gosporttv/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",True PremierHD 1 สำรอง
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",True PremierHD 2 สำรอง
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True PremierHD 3 สำรอง
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",True PremierHD 4 สำรอง
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1 สำรอง
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2 สำรอง
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3 สำรอง
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-id="EPL-1dooball2you" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1dooball2you
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8?|Referer=https://dooball2you.com/
+
+#EXTINF:-1 group-title="กีฬา" tvg-id="EPL-2dooball2you" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2dooball2you
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8?|Referer=https://dooball2you.com/
+
+#EXTINF:-1 group-title="กีฬา" tvg-id="EPL-3dooball2you" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3dooball2you
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8?|Referer=https://dooball2you.com/
+
+#EXTINF:-1 group-title="กีฬา" tvg-id="EPL-4dooball2you" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4dooball2you
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8?|Referer=https://dooball2you.com/
+
+#EXTINF:-1 group-title="กีฬา" tvg-id="EPL-5dooball2you" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5dooball2you
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8?|Referer=https://dooball2you.com/
+
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",001 PremierHD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",002 PremierHD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",003 PremierHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",004 PremierHD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",005 PremierHD 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",006 SportHD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",007 SportHD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",008 SportHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,009 Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,010 Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" ,011 Golf Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png" ,012 Golf Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",013 SPOTV HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/spotv/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",014 SPOTV HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/spotv2/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",015 Tennis HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NFL-logo-500x338.png",016 NFL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/nfl/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",017 BeinSport HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein1/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,018 BeinSport HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein2/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,019 BeinSport HD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein3/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,020 BeinSport HD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein4/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,021 BeinSport HD 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein5/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,022 BeinSport HD 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein6/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,023 BeinSport HD 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein7/playlist.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" ,024 ฟุตบอลไทย 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai1/chunks.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp", 025 ฟุตบอลไทย 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai2/chunks.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",026 ฟุตบอลไทย 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai3/chunks.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",027 ฟุตบอลไทย 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai4/chunks.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",028 ฟุตบอลไทย 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai5/chunks.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp" ,029 ฟุตบอลไทย 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai6/chunks.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",030 ฟุตบอลไทย 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai7/chunks.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp",031 ฟุตบอลไทย 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai8/chunks.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp",032 ฟุตบอลไทย 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai9/chunks.m3u8
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",033 ฟุตบอลไทย 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai10/chunks.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT1.png",034 สยามสปอร์ต 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/siamsport1/playlist.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT2.png",035 สยามสปอร์ต 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/siamsport2/playlist.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT3.png",036 สยามสปอร์ต 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/siamsport3/playlist.m3u8
+
+#EXTINF:-1 group-title="บอลไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT4.png",037 สยามสปอร์ต 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/siamsport4/playlist.m3u8
+
+########฿
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-name="Astro SuperSport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" ,000.Astro SuperSport 1
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium123/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Astro SuperSport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" ,001.Astro SuperSport 2
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium124/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Astro SuperSport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png" ,002.Astro SuperSport 3
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium125/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Astro SuperSport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png",003.Astro_SuperSport_4
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium126/index.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" ,004.DAZN 1 Bar DE
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium426/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="DAZN 2 Bar DE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" ,005.DAZN 2 Bar DE
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium427/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" ,006.DAZN 1 Spain
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium445/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" ,007.DAZN 2 Spain
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium446/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" ,008.DAZN 3 Spain
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium447/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" ,009.DAZN 4 Spain
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium448/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" ,010.DAZN F1 ES
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium537/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" ,011.DAZN LaLiga
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium538/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" ,012.DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium43/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 1 Premium
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium134/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 2 Premium
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium135/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 1 Premium
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium134/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 2 Premium
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium135/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 3 Premium
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium139/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 1 Serbia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium429/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 1 Croatia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium432/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 2 Croatia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium433/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 3 Croatia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salaสิลmus2023.onlinehdhls.ru/lb/premium434/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 4 Croatia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium580/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 4 Croatia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium580/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 1 Premium
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium134/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 2 Premium
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium135/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 3 Premium
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium139/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 1 Serbia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium429/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 2 Serbia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium430/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 3 Serbia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium431/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png ,Arena Sport 4 Serbia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium581/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 1 Croatia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium432/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 2 Croatia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium433/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.png" ,Arena Sport 3 Croatia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salaสิลmus2023.onlinehdhls.ru/lb/premium434/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="กีฬาต่างประเทศ" tvg-name="Arena Sport 1 Premium" tvg-logo="https://img2.pic.in.th/pic/res_drawable_gbscell_aipitv.pngๆ" ,Arena Sport 4 Croatia
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium580/index.m3u8
+
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",DF DE
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium727/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",20 Mediaset Italy
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium857/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",eren Denmark
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium800/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",0 Spain
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium437/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",5 USA
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium360/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",3sat DE
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium726/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",ABC USA
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium51/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",ABU Dhabi Sports TV
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium601/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",A&E USA
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium302/index.m3u8
+#EXTINF:-1 group-title="Live HD" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png", English 1
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium61/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA English 2
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium90/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA English 3
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium46/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA 1
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium91/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",,beIN Sports MENA 2
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium92/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA 3
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium93/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA 4
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium94/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA 5
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium95/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA 6
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium96/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA 7
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium97/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA Premium 1
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium98/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA Premium 2
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium99/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",beIN Sports MENA Premium 3
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium100/index.m3u8
+#EXTINF:-1 group-title="Live HD " tvg-name="2DF DE" tvg-logo="https://img2.pic.in.th/pic/gbscell_aipitv.png",<.beIN Sports MAX 4 France
+#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://salamus2023.onlinehdhls.ru/lb/premium494/index.m3u8
+#######№############
+
+
+
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://s3.movie555.com/assets/images/poster/a/compressed/202409/25883LvUp2K4EzPuebfPGhgWL6bxfXqil6Ujg.jpg.webp",000.Hellboy: The Crooked Man [ภาพ Master ไม่มีเสียงและบรรยายไทย]
+https://live.lnwplayer.com/hls/78e25349-a781-471d-8911-2e8a864620a9/index.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Venom-The-Last-Dance-%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A1-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-2024-300x450.jpg",000.Venom3
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://main.24playerhd.com:443/m3u8/6fbcd3315d2bbc0d0d4ba84c/6fbcd3315d2bbc0d0d4ba84c438.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Prey-%E0%B8%82%E0%B8%A2%E0%B9%89%E0%B8%B3-2024-300x450.jpg",Prey ขย้ำ (2024)
+https://main.24playerhd.com:443/m3u8/8a74b687b03678763fda29ef/8a74b687b03678763fda29ef438.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Family-Pack-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2-2024-300x450.jpg",Family Pack เกมมนุษย์หมาป่า (2024)
+https://main.24playerhd.com:443/m3u8/081da4c502c6e865ccfe4a52/081da4c502c6e865ccfe4a52438.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Carved-2024-300x450.jpg",Carved (2024)
+https://main.24playerhd.com:443/m3u8/6e354b8b36df9891d5992e32/6e354b8b36df9891d5992e32438.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/The-Man-Who-Loved-UFOs-%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%84%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%A2%E0%B8%B9%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%82%E0%B8%AD-2024-300x450.jpg",The Man Who Loved UFOs ชายผู้คลั่งไคล้ยูเอฟโอ (2024)
+https://main.24playerhd.com:443/m3u8/8403925c360d380300e958ff/8403925c360d380300e958ff438.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/The-Turnaround-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%AD%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B9%8C-2024-300x450.jpg",The Turnaround เดอะ เทิร์นอะราวด์ (2024)
+https://main.24playerhd.com:443/m3u8/f3d340a8dcb4b9283c0680a6/f3d340a8dcb4b9283c0680a6438.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/The-Painter-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%A3-2024-300x450.jpg",The Painter จิตรกร (2024)
+https://main.24playerhd.com/newplaylist/1e8b26dde77ff5e33e1a475c/1e8b26dde77ff5e33e1a475c.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/LEGO-Marvel-Avengers-Mission-Demolition-2024-300x450.png",LEGO Marvel Avengers Mission Demolition (2024)
+https://main.24playerhd.com/newplaylist/3f7c890b75c3c8e8c679d92f/3f7c890b75c3c8e8c679d92f.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Smile-2-%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87-2-2024-300x450.jpg",001.Smile 2 ยิ้มสยอง 2 (2024)
+https://main.24playerhd.com/newplaylist/ab199c3d23523131fa2ec2fd/ab199c3d23523131fa2ec2fd.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-2-Death-Whisperer-2-2024-300x450.jpg",002.ธี่หยด 2 Death Whisperer 2 (2024)
+https://main.24playerhd.com/newplaylist/696a9dbd85cfd64288303657/696a9dbd85cfd64288303657.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Happiness-Is-2024-300x450.jpg",Happiness Is (2024)
+https://main.24playerhd.com/newplaylist/7e23a09346defbb3a5207248/7e23a09346defbb3a5207248.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Silent-Love-%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B9%84%E0%B8%9B%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD-2024-300x450.jpg",Silent Love สื่อภาษาใจไปถึงเธอ (2024)
+https://main.24playerhd.com/newplaylist/bbe8dfa2466cb3f8f78e9a91/bbe8dfa2466cb3f8f78e9a91.m3u8
+
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/SEVENTEEN-TOUR-FOLLOW-AGAIN-TO-CINEMAS-2024-300x450.jpg",SEVENTEEN TOUR FOLLOW AGAIN TO CINEMAS (2024)
+https://main.24playerhd.com/newplaylist/ab01ba6db04be6afda77b94d/ab01ba6db04be6afda77b94d.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/The-Wild-Robot-%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87-2024-300x450.jpg",The Wild Robot หุ่นยนต์ผจญภัยในป่ากว้าง (2024)
+https://main.24playerhd.com/newplaylist/821a2bcb34d0c8616e7772fb/821a2bcb34d0c8616e7772fb.m3u8
+
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Canary-Black-%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%A5%E0%B8%81-2024-300x450.jpg",Canary Black รหัสลับดับโลก (2024)
+https://main.24playerhd.com/newplaylist/81b2afe6eed266f57732b245/81b2afe6eed266f57732b245.m3u8
+
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/I-Not-Stupid-3-2024-300x450.jpg",I Not Stupid 3 (2024)
+https://main.24playerhd.com/newplaylist/a4e2cc68c493a69f30d0a4f7/a4e2cc68c493a69f30d0a4f7.m3u8
+
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Sing-Thriller-%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-Thriller-2024-300x450.jpg",Sing Thriller ร้องจริง เสียงจริง Thriller (2024)
+https://main.24playerhd.com/newplaylist/0008371240526af50705343d/0008371240526af50705343d.m3u8
+EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Brothers-%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81-2024-300x450.jpg",Brothers บราเธอร์ส ปล้นครั้งนี้เพื่อพี่ที่รัก (2024)
+https://main.24playerhd.com/newplaylist/959a8c91b5810ab4e67a0157/959a8c91b5810ab4e67a0157.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Outside-%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C%E0%B9%84%E0%B8%8B%E0%B8%94%E0%B9%8C-2024-300x450.jpg",Outside เอาท์ไซด์ (2024)
+https://main.24playerhd.com/newplaylist/9bd916ef887b514260f0445c/9bd916ef887b514260f0445c.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Justice-Napad-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1-2024-300x450.jpg",Justice Napad ล่าความยุติธรรม (2024)
+https://main.24playerhd.com/newplaylist/d2c7adeb532a4d5aefb3f8b1/d2c7adeb532a4d5aefb3f8b1.m3u8
+
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A1-3-Haunted-Universities-3-2024-300x450.jpg",004.เทอม 3 Haunted Universities 3 (2024)
+https://main.24playerhd.com/newplaylist/8bb361bb8176617b1d08f4aa/8bb361bb8176617b1d08f4aa.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/The-Shadow-Strays-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2024-300x450.jpg",The Shadow Strays นักฆ่าเงาล่าทรชน (2024)
+https://main.24playerhd.com/newplaylist/0bc8dbe76358714434f0f61a/0bc8dbe76358714434f0f61a.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Sweet-Bobby-My-Catfish-Nightmare-%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B9%8B%E0%B8%99-2024-300x450.jpg",Sweet Bobby My Catfish Nightmare ฝันร้ายภัยนักตุ๋น (2024)
+https://main.24playerhd.com/newplaylist/667b4cb3ab5a23e81b16529e/667b4cb3ab5a23e81b16529e.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%9B-Love-Stuck-2024-300x450.jpg",รักวนลูป Love Stuck (2024)
+https://main.24playerhd.com/newplaylist/059c30ec5c7e5eef3ff44f98/059c30ec5c7e5eef3ff44f98.m3u8
+#EXTINF:-1 group-title="หนังใหม่ชนโรง" tvg-logo="",fwmov
+https://drive.google.com/uc?id=1ZRM51JSxWRYNRt7GvnmKu8VRqSd79AIZ
+
+
+
+###£££££££££££
