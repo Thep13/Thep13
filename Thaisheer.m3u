@@ -1264,30 +1264,6 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" ,CNN indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
 
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/2G3hPwP.png" tvg-id="Sky Sports + HD.uk" ,Sky Sports +
-https://ie.sonyrepairs.com/sksparena/index.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/JV1bsgj.png" tvg-id="Sky Sports Action HD.uk" ,Sky Sports Action
-https://ie.sonyrepairs.com/skspnfl/index.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/JV1bPqu.png" tvg-id="Sky Sports Cricket HD.uk" ,Sky Sports Cricket
-https://ie.sonyrepairs.com/skspcricket/index.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/JV1b4se.png" tvg-id="Sky Sports F1 HD.uk" ,Sky Sports F1
-https://ie.sonyrepairs.com/skspf1/index.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/JV1bZ5Q.png" tvg-id="Sky Sports Football HD.uk" ,Sky Sports Football
-https://ie.sonyrepairs.com/skspfootball/index.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/JV1bQdx.png" tvg-id="Sky Sports Golf HD.uk" ,Sky Sports Golf
-https://ie.sonyrepairs.com/skspgolf/index.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/JV1bteV.png" tvg-id="Sky Sports Main Event HD.uk" ,Sky Sports Main Event
-https://ie.sonyrepairs.com/skspmainevent/index.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/JV1bDmB.png" tvg-id="Sky Sports Mix HD.uk" ,Sky Sports Mix
-https://ie.sonyrepairs.com/spspmix/index.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/JV1bmzP.png" tvg-id="Sky Sports News HD.uk" ,Sky Sports News
-https://ie.sonyrepairs.com/skspnews/index.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/JV1mHqg.png" tvg-id="Sky Sports Premier League HD.uk" ,Sky Sports Premier League
-https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://iili.io/JV1p7cJ.png" tvg-id="Sky Sports Tennis HD.uk" ,Sky Sports Tennis
-https://ie.sonyrepairs.com/sktennis/index.m3u8
-
 #EXTINF:0,TSN
 http://212.102.60.231/TSN_2/index.m3u8
 #EXTINF:0,TSN 3 🇨🇦
