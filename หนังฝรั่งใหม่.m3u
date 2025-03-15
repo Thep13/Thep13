@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="หนังใหม่​2025"
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503101634532XXDFGzlQHiqTjbDm15LOr1WiDm.jpg" group-title="" ,V.1 Mickey 17 มิกกี้ 17 (2025)
+tvg-logo="https://img.inwiptv.net/postor/202503101634532XXDFGzlQHiqTjbDm15LOr1WiDm.jpg" group-title="" ,V.1 Mickey 17 มิกกี้ 17 (2025)
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie4/Mickey_17_2025/Mickey_17_2025_thr_v1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250310162111gfHSYs9HsoTO3goU5lnkJsqewsWfev.jpg" group-title="" ,V.1 Cleaner ไต่ระทึกตึกนรก (2025)
