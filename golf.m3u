@@ -5,3 +5,8 @@ http://cord-cutter.net:8080/gPe4Z1/132932/35240
 http://cord-cutter.net:8080/gPe4Z1/132932/9806
 #EXTINF:-1 group-title="" tvg-id="golfchannel.us" ,US Golf Channel 
 http://cord-cutter.net:8080/gPe4Z1/132932/46728
+
+#EXTINF:-1 group-title="" tvg-id="CA: GOLF CHANNEL" ,USA Golf UHD
+http://supersonictv.live:8080//dbcheco124/dbcheco124/40401
+#EXTINF:-1 group-title="" tvg-logo="http://3.bp.blogspot.com/-YQvwuCKxV7s/Uq_-L3ABhSI/AAAAAAAAdJ0/ylPsBPbCP20/s1600/Golf+Channel+logo+2014.png" tvg-id="CA: GOLF CHANNEL" ,USA The Golf Channel
+http://supersonictv.live:8080//dbcheco124/dbcheco124/40434
