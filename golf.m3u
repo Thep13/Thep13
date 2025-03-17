@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="" tvg-id="sky.sports.golf.gb" ,UK Sky Sports Golf FHD 
+http://cord-cutter.net:8080/gPe4Z1/132932/35240
+#EXTINF:-1 group-title="" tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" tvg-id="golfchannel.us" ,US Golf Channel 
+http://cord-cutter.net:8080/gPe4Z1/132932/9806
+#EXTINF:-1 group-title="" tvg-id="golfchannel.us" ,US Golf Channel 
+http://cord-cutter.net:8080/gPe4Z1/132932/46728
