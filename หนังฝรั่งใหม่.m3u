@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503170042435Ua3FvEdgTtrMIddCQUXrjtu0VT.jpg" group-title="" ,Z.1 Dark Nuns ไล่มันกลับลงหลุม (2025)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Dark_Nuns_2025/Dark_Nuns_2025_thr_z1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250315093004yp5eg70g6LaZoBiApOv9oerzvvX.jpg" group-title="" ,Emergency ฉุกเฉิน (2025) บรรยายไทย
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Emergency_2025/Emergency_2025_ST_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503141548291TZ9Er1xEAKizzKKqYVgJIhNkN2.jpg" group-title="" ,The Electric State ท่องแดนจักรกล (2025) NETFLIX
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/The_Electric_State_2025/The_Electric_State_2025_TH_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250314112645ugMPpC7EkY5caAZU4pAl2CYdfP0.jpg" group-title="" ,Be Happy จังหวะฝัน วันสุขใจ (2025) บรรยายไทย
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Be_Happy_2025/Be_Happy_2025_ST_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503132313165lMu14IMuHo0hKYCwCIogt7IioX.jpg" group-title="" ,The Parenting อุต๊ะ มาป๊ะผี (2025) บรรยายไทย
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/The_Parenting_2025/The_Parenting_2025_st_1080.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503101634532XXDFGzlQHiqTjbDm15LOr1WiDm.jpg" group-title="" ,V.1 Mickey 17 มิกกี้ 17 (2025)
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie4/Mickey_17_2025/Mickey_17_2025_thr_v1.mp4/playlist.m3u8
