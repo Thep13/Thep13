@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250401084313shQW1KFEAEHCX9GytczYCDSXG6L.jpg" group-title=หนังใหม่-042025"" ,Promised Hearts หลักฐานสัญญาใจ (2025) NETFLIX
+#EXTVLCOPT:http-referrer=https://www.fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Promised_Hearts_2025/Promised_Hearts_2025_TH_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250331093858cEuWjWM7wzsnhoCfQCeCFtMd32k.jpg" group-title=หนังใหม่-042025"" ,VidaaMuyarchi ผู้ชายใจไม่พ่าย (2025) บรรยายไทย
+#EXTVLCOPT:http-referrer=https://www.fw4free.com/
+https://m1free.inwstream.com:1936/movie4/VidaaMuyarchi_2025/VidaaMuyarchi_2025_ST_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250329092543AhyvU3nIZ6uzop8lMgRB5N3AY9l.jpg" group-title=หนังใหม่-042025"" ,Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip (2025) บรรยายไทย
+#EXTVLCOPT:http-referrer=https://www.fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Alexander_and_the_Terrible_Horrible_No_Good_Very_Bad_Road_Trip_2025/Alexander_and_the_Terrible_Horrible_No_Good_Very_Bad_Road_Trip_2025_EN_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503282014106FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" group-title=หนังใหม่-042025"" ,V.2 A Working Man นรกหยุดนรก (2025)
+#EXTVLCOPT:http-referrer=https://www.fw4free.com/
+https://m1free.inwstream.com:1936/movie4/A_Working_Man_2025/A_Working_Man_2025_thr_v2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503281645555fg98cVo7da7OIK45csdLSd4NaU.jpg" group-title=หนังใหม่-042025"" ,The Life List รายการชีวิต (2025) NETFLIX
+#EXTVLCOPT:http-referrer=https://www.fw4free.com/
+https://m1free.inwstream.com:1936/movie4/The_Life_List_2025/The_Life_List_2025_TH_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250328105727wbkPMTz2vVai7Ujyp0ag7AM9SrO.jpg" group-title=หนังใหม่-042025"" ,Carjackers คาร์แจ็กเกอร์ส (2025)
+#EXTVLCOPT:http-referrer=https://www.fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Carjackers_2025/Carjackers_2025_TH_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503280940395IBibelRlItCQl8Ld6wXWMk5Po.jpg" group-title=หนังใหม่-042025"" ,Deva ข้าชื่อเทพ (2025) บรรยายไทย
+#EXTVLCOPT:http-referrer=https://www.fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Deva_2025/Deva_2025_ST_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2025032808563939jIr3A4ScUeGxFdMeARYKNxTgU.jpg" group-title=หนังใหม่-042025"" ,Holland ฮอลแลนด์ เมืองหลอนซ่อนความลับ (2025)
+#EXTVLCOPT:http-referrer=https://www.fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Holland_2025/Holland_2025_TH_1080p_1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250325151600iA5ZHflyzsxmR09Ce53w9Ng0tIx.jpg" group-title=หนังใหม่-032025"" ,Con Mum แม่นักตุ๋น (2025) NETFLIX บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie4/Con_Mum_2025/Con_Mum_2025_EN_1080p.mp4/playlist.m3u8
