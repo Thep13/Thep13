@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250404060436z2TWhTRFzriygLygsjTbIHFYcQW.jpg" group-title=" หนังไทย" ,404 สุขีนิรันดร์..Run Run 404 Run Run (2024)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/404_Run_Run_2024/404_Run_Run_2024_th_1080.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503201207362C9izRi4iyTkfevcWIx0fracBgU.jpg" group-title=" หนังไทย" ,ปณิธานหวานน้อย Endpresso (2024)
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie4/Endpresso_2024/Endpresso_2024_TH_1080p.mp4/playlist.m3u8
